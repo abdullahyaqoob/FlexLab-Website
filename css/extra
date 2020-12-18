@@ -1,0 +1,3683 @@
+
+@media only screen and (min-width: 2540px) {
+  #yelowplayball {
+    max-width: 100px;
+    position: relative;
+    left: -470px;
+    top: -570px;
+  }
+  #award-titl {
+    font-size: 50px;
+    font-weight: bold;
+  }
+  #S5scdcrcl {
+    margin-right: 200px;
+    margin-top: 170px;
+    max-width: 400px;
+    max-height: 400px;
+  }
+  #S3greencube {
+    position: relative;
+    left: 700px;
+  }
+  #greencuber {
+    position: relative;
+    top: -700px;
+  }
+  #S3cube {
+    position: relative;
+    left: 300px;
+  }
+  #cubedwnyellow {
+    position: relative;
+    top: -600px;
+    left: -550px;
+  }
+  #blueballS3 {
+    position: relative;
+    top: -750px;
+  }
+  #S3keyboard {
+    min-width: 500px;
+  }
+  #learnmorebtn {
+    font-size: 30px;
+    min-width: 700px;
+    padding-top: 35px;
+    min-height: 100px;
+    margin-top: 100px;
+  }
+  #makingircle {
+    position: absolute;
+    left: -330px;
+    margin-right: -400px;
+  }
+  #S4mancheckerpic {
+    margin-top: 40px;
+    margin-right: -10px;
+  }
+  #S4filespic {
+    margin-top: 220px;
+    margin-left: 100px;
+  }
+  #S4listingpic {
+    min-width: 700px;
+    min-height: 700px;
+    margin-left: -130px;
+    margin-top: 35px;
+  }
+  #S4messagepic {
+    margin-bottom: 70px;
+    margin-right: -90px;
+  }
+  #S4blueballpic {
+    max-width: 180px;
+    margin-top: 10px;
+    position: absolute;
+    left: 950px;
+    margin-right: 500px;
+  }
+  #S4cubepic {
+    min-width: 300px;
+    margin-left: 50px;
+    margin-top: 10px;
+  }
+  #marketpshleft {
+    margin-top: -190px;
+    margin-left: 200px;
+  }
+  #marketmonitor {
+    position: relative;
+    right: -350px;
+    top: 10px;
+  }
+  #bluecirclemarket {
+    position: relative;
+    left: 670px;
+  }
+  #redcylinder {
+    min-width: 120px;
+    position: absolute;
+  }
+  #greenlinder {
+    min-width: 120px;
+    position: absolute;
+    right: -200px;
+  }
+  #greencylinder {
+    position: relative;
+    top: -10px;
+  }
+  #marketcompas {
+    min-width: 200px;
+    margin-left: -20px;
+  }
+  #marketgraph {
+    margin-bottom: -20px;
+    margin-right: -690px;
+  }
+  #letschatbttn {
+    position: relative;
+    top: 90px;
+    max-width: 900px;
+    border-radius: 7px;
+    margin-left: -110px;
+    margin-top: 120px;
+  }
+  #S6phone {
+    margin-right: -280px;
+  }
+  #S6cube {
+    margin-right: -150px;
+    margin-top: 10px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: 10px;
+    margin-left: 70px;
+  }
+  #S6yellowball {
+    margin-top: -114px;
+    margin-left: 150px;
+  }
+  #pushingtoright {
+    margin-top: -400px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -500px;
+    min-width: 900px;
+    top: 70px;
+    min-height: 700px;
+  }
+  #usermarker {
+    margin-top: 40px;
+    margin-left: 200px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -770px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 120px;
+    margin-right: -670px;
+  }
+  #pushingtoleft {
+    margin-top: -500px;
+    margin-left: 430px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 100px;
+    min-width: 800px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-left: -180px;
+    margin-top: 140px;
+  }
+  #godcodefonts {
+    margin-right: -370px;
+  }
+  #godcodecolors {
+    max-width: 300px;
+    margin-left: -120px;
+    margin-bottom: -90px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -370px;
+    margin-bottom: -90px;
+  }
+  #topheading {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 750px;
+    position: relative;
+    right: -400px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -700px;
+    margin-bottom: -40px;
+  }
+  #S9megaphone {
+    max-width: 250px;
+    margin-left: 190px;
+    margin-bottom: 100px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 180px;
+  }
+  #S9yellowball {
+    max-width: 200px;
+    margin-top: -180px;
+    margin-right: -450px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -30px;
+    right: -400px;
+  }
+  /* ==================================================------- */
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -200px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 540px;
+  }
+  #S10cloudone {
+    min-width: 370px;
+    margin-top: 100px;
+    margin-left: -265px;
+  }
+  #S10cloudtwo {
+    min-width: 370px;
+    margin-left: -180px;
+    margin-top: 70px;
+  }
+  #S10triangle {
+    margin-top: 350px;
+    margin-right: -290px;
+  }
+  #S10search {
+    min-width: 650px;
+    margin-top: 670px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 750px;
+    margin-left: -200px;
+  }
+  /* ============================================--------------- */
+  #exacfolder {
+    position: relative;
+    right: -160px;
+    min-width: 900px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: 10px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 220px;
+    margin-top: 90px;
+    margin-left: -170px;
+  }
+  #exaccup {
+    max-width: 250px;
+    margin-top: 90px;
+    margin-left: -240px;
+  }
+  #S11cube {
+    max-width: 250px;
+    margin-top: 130px;
+    margin-right: -240px;
+  }
+  #S12bucket {
+    max-width: 500px;
+    margin-left: 100px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -390px;
+    margin-top: 140px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 50px;
+    position: absolute;
+    max-width: 340px;
+    max-height: 340px;
+  }
+  #secretcircle-2 {
+    margin-top: -120px;
+    margin-left: 80px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1230px;
+    margin-top: 150px;
+    max-width: 190px;
+    max-height: 190px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -490px;
+    margin-top: 280px;
+  }
+  #S12man {
+    min-width: 1150px;
+  }
+  #S12yellowball {
+    max-width: 200px;
+    margin-top: -130px;
+    margin-left: 100px;
+  }
+  /* ===============================------- */
+  #downloadsheadings {
+    margin-top: -200px;
+    margin-left: 200px;
+  }
+  #cardsofdownloads {
+    margin-right: -400px;
+  }
+  #downloadcircle {
+    max-width: 170px;
+    max-height: 170px;
+    margin-left: -60px;
+  }
+  /* ======================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* ============================================================= */
+  /* -------------------------------------------------------------- */
+  /* ============================================================= */
+  #clientsfirstcircle {
+    margin-top: 30px;
+    margin-left: 200px;
+    max-width: 550px;
+    max-height: 550px;
+  }
+  #clientslovetext {
+    margin-top: 150px;
+    margin-left: -120px;
+  }
+  #clientsstar {
+    margin-top: 30px;
+    margin-right: -480px;
+  }
+  #clientsmsg {
+    margin-right: -350px;
+  }
+  #clientsyellowball {
+    margin-top: -50px;
+  }
+  #clientsheading {
+    font-size: 100px;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -400px;
+  }
+  #subheading {
+    font-size: 50px;
+    line-height: 3vw;
+  }
+  #industriesheading {
+    margin-left: 100px;
+  }
+  #istdiv {
+    height: 600px;
+    width: 380px;
+  }
+  #cardtopheading {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 15px;
+  }
+  #playblue {
+    margin-left: 80px;
+    height: 190px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  #cardsubheading {
+    font-size: 24px;
+  }
+  #rows {
+    margin-right: -100px;
+  }
+  #rowse {
+    margin-right: -100px;
+  }
+  #servedyellowcube {
+    margin-left: 1100px;
+  }
+  #workmsg {
+    margin-left: -300px;
+  }
+  /* ============================================================= */
+  /* -------------------------------------------------------------- */
+  /* ============================================================= */
+  #servicesimages {
+    margin-left: 480px;
+    margin-top: 10px;
+  }
+  #serviceMcontent {
+    margin-left: -170px;
+    margin-top: 100px;
+  }
+  #gaps {
+    margin-bottom: 100px;
+  }
+  #servicescubes {
+    margin-top: -80px;
+  }
+  #servecespot {
+    position: absolute;
+    left: 1440px;
+    top: -300px;
+  }
+  #servicescubes3d {
+    margin-right: -400px;
+  }
+  #designsolutioncontent {
+    margin-left: 200px;
+  }
+  #solutionbucket {
+    margin-top: 150px;
+    margin-right: -400px;
+  }
+  #developmentvolum {
+    margin-top: -100px;
+    margin-right: -160px;
+    max-width: 170px;
+  }
+  #developmentclock {
+    margin-top: -200px;
+    margin-right: -195px;
+    max-width: 250px;
+  }
+  #developmentcircle {
+    margin-left: -70px;
+    max-width: 200px;
+    margin-top: -170px;
+  }
+  #developmentpic {
+    margin-left: -30px;
+    max-width: 200px;
+    margin-top: -130px;
+  }
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  #contactcircle {
+    margin-left: -120px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -320px;
+  }
+  #contactplane {
+    margin-left: -90px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: -30px;
+    max-width: 250px;
+    margin-right: -240px;
+  }
+  #contactsend {
+    margin-left: -140px;
+    margin-top: -120px;
+  }
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -200px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -200px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -180px;
+  }
+  #profiles {
+    margin-right: -80px;
+  }
+  #mouseport {
+    margin-left: -200px;
+  }
+  #cubeport {
+    margin-top: -100px;
+    margin-right: -250px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftback {
+    margin-left: -300px;
+  }
+  #leftgo {
+    margin-left: 300px;
+  }
+  #letschatport {
+    margin-top: -150px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #designyellowball {
+    margin-top: -80px;
+    margin-right: -300px;
+  }
+  #designcube {
+    margin-top: -100px;
+    margin-left: -80px;
+  }
+}
+
+@media (min-width: 1950px) and (max-width: 2030px) {
+  #heorocontent {
+    margin-top: 210px;
+    margin-left: -50px;
+  }
+  #circle-top1 {
+    margin-top: -10px;
+    margin-left: -1px;
+  }
+  #S1yellowball {
+    margin-left: -40px;
+  }
+  #pushleftcenter {
+    margin-top: 70px;
+    margin-right: 550px;
+  }
+  #cubepic {
+    margin-top: 120px;
+    margin-left: -130px;
+  }
+  #mousepic {
+    margin-top: 130px;
+  }
+  #rocketman {
+    position: absolute;
+    left: 700px;
+    top: 120px;
+    min-width: 250px;
+  }
+  #backgroundd {
+    position: absolute;
+    left: 870px;
+    top: 220px;
+    min-width: 170px;
+  }
+  #flowerpic {
+    position: absolute;
+    left: 1200px;
+    top: 400px;
+    min-width: 60px;
+  }
+  /* ==================================================== */
+  #light-bulb {
+    position: relative;
+    top: -80px;
+  }
+  #S2lamppic {
+    margin-right: -50px;
+  }
+  #lightbulbs{
+    margin-top: -100px;
+    margin-right: 400px;
+  }
+  /* ============================== */
+  #S3topcontent {
+    margin-right: 500px;
+    margin-top: -250px;
+  }
+  #S3cube {
+    height: 255px;
+    min-width: 240px;
+    margin-left: -700px;
+    margin-top: 330px;
+  }
+  #S3cubeplay {
+    position: relative;
+    margin-left: -330px;
+    margin-top: 530px;
+    max-width: 220px;
+  }
+  #S3greencube {
+    margin-top: 250px;
+    position: absolute;
+    top: 520px;
+    left: 650px;
+    width: 30px;
+  }
+  #S3blueball {
+    margin-right: -300px;
+    margin-top: 130px;
+    max-width: 170px;
+    min-height: 170px;
+    height: 70px;
+    position: absolute;
+    top: 10px;
+  }
+  #S3shadow {
+    position: absolute;
+    top: 520px;
+    left: 430px;
+    min-width: 450px;
+  }
+  #S3keyboard {
+    max-height: 60px;
+    min-width: 550px;
+    position: absolute;
+    top: 700px;
+    left: 350px;
+  }
+  #S3buisnesspic {
+    margin-right: -100px;
+    margin-top: -150px;
+  }
+  #glossygreeen {
+    margin-left: 270px;
+    margin-top: -200px;
+    min-width: 500px;
+    min-height: 500px;
+  }
+  #glossypink {
+    max-width: 100px;
+    max-width: 680px;
+    min-height: 500px;
+    position: relative;
+    top: -190px;
+  }
+  #S3line {
+    position: relative;
+    top: 200px;
+    left: -40px;
+  }
+  #learnmorebtn {
+    margin-right: -30px;
+    padding: 30px 250px;
+  }
+  /* ========================================================= */
+  #makingircle {
+    position: absolute;
+    left: -230px;
+    top: 40px;
+    margin-right: -700px;
+  }
+  #S4mancheckerpic {
+    margin-top: 40px;
+    margin-right: -10px;
+  }
+  #S4filespic {
+    margin-top: 90px;
+    margin-left: 200px;
+  }
+  #S4listingpic {
+    min-width: 530px;
+    min-height: 530px;
+    margin-left: 20px;
+    margin-top: 45px;
+  }
+  #S4messagepic {
+    margin-bottom: 70px;
+    margin-right: 70px;
+  }
+  #S4blueballpic {
+    max-width: 180px;
+    margin-top: 70px;
+    position: absolute;
+    left: 870px;
+  }
+  #S4cubepic {
+    min-width: 230px;
+    margin-left: 150px;
+    margin-top: 10px;
+  }
+  /* ====================================================== */
+  #marketpshleft {
+    margin-top: -100px;
+    margin-right: 600px;
+  }
+  #marketmonitor {
+    position: relative;
+    right: -170px;
+    top: 10px;
+  }
+  #bluecirclemarket {
+    position: relative;
+    left: 300px;
+  }
+  #redcylinder {
+    min-width: 100px;
+  }
+  #greenlinder {
+    min-width: 100px;
+    position: absolute;
+    left: 1000px;
+  }
+  #greencylinder {
+    position: relative;
+    top: -10px;
+  }
+  #marketcompas {
+    min-width: 170px;
+    margin-left: -20px;
+  }
+  #marketgraph {
+    margin-bottom: -20px;
+    margin-right: -300px;
+  }
+  /* ========================================================= */
+  #pushlefttop {
+    margin-top: -300px;
+    margin-right: 600px;
+  }
+  #S6sim {
+    position: relative;
+    left: 110px;
+    top: -30px;
+    min-width: 950px;
+    min-height: 580px;
+  }
+  #S6coin {
+    max-width: 220px;
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+  #S6phone {
+    margin-top: -70px;
+    margin-right: -140px;
+  }
+  #S6cube {
+    margin-right: -100px;
+    margin-top: -30px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: -80px;
+    margin-left: 140px;
+  }
+  #S6yellowball {
+    max-width: 180px;
+    margin-top: -114px;
+    margin-left: 150px;
+  }
+  #S6line {
+    margin-top: -80px;
+  }
+  .chat-btunn {
+    font-family: var(--sub-font);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 150px;
+    border-radius: 7px;
+  }
+  /* ============================================================== */
+  #pushingtoright {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -250px;
+    min-width: 800px;
+    top: 50px;
+    min-height: 600px;
+  }
+  #usermarker {
+    margin-top: 30px;
+    margin-left: 150px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -340px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 80px;
+    margin-right: -350px;
+  }
+  /* =========================0--------------======================= */
+  #pushingtoleft {
+    margin-top: -300px;
+    margin-left: 200px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 35px;
+    min-width: 650px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-top: 30px;
+    margin-left: -30px;
+  }
+  #godcodefonts {
+    margin-right: -170px;
+  }
+  #godcodecolors {
+    max-width: 250px;
+    margin-left: 40px;
+    margin-bottom: -10px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -200px;
+    margin-bottom: -90px;
+  }
+  /* ============================================================== */
+  #topheading {
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 600px;
+    position: relative;
+    right: -270px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -370px;
+    margin-bottom: -30px;
+  }
+  #S9megaphone {
+    max-width: 180px;
+    margin-left: 230px;
+    margin-bottom: 75px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 80px;
+    margin-left: 170px;
+  }
+  #S9yellowball {
+    max-width: 150px;
+    margin-top: -100px;
+    margin-right: -170px;
+  }
+  #S9line {
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -100px;
+    right: -240px;
+  }
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -10px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 400px;
+  }
+  #S10cloudone {
+    min-width: 330px;
+    margin-top: 80px;
+    margin-left: -95px;
+  }
+  #S10cloudtwo {
+    min-width: 330px;
+    margin-left: 05px;
+    margin-top: 20px;
+  }
+  #S10triangle {
+    margin-top: 230px;
+    margin-right: -120px;
+  }
+  #S10search {
+    min-width: 500px;
+    margin-top: 420px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 600px;
+    margin-left: -30px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================ */
+  #exacfolder {
+    min-width: 900px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: 30px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 170px;
+    margin-top: 170px;
+    margin-left: -120px;
+  }
+  #exaccup {
+    max-width: 250px;
+    margin-top: 90px;
+    margin-left: -130px;
+  }
+  #S11cube {
+    margin-top: 200px;
+    margin-right: -50px;
+  }
+  #exacline {
+    margin-top: 220px;
+  }
+  /* ============================================================== */
+  #S12bucket {
+    max-width: 500px;
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -170px;
+    margin-top: 70px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 180px;
+    position: absolute;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  #secretcircle-2 {
+    margin-top: -100px;
+    margin-left: 130px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1080px;
+    margin-top: 70px;
+    max-width: 170px;
+    max-height: 170px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -330px;
+    margin-top: 200px;
+  }
+  #S12man {
+    min-width: 950px;
+  }
+  #S12yellowball {
+    max-width: 170px;
+    margin-top: -150px;
+    margin-left: 100px;
+  }
+  #S12line {
+    margin-left: 50px;
+  }
+  /* ======================================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* /////////////////////////////////////////////////////////// */
+  /* ========================------------------====================== */
+  /* /////////////////////////////////////////////////////////// */
+  #clientsfirstcircle {
+    margin-top: -150px;
+    margin-left: 100px;
+    max-width: 450px;
+    max-height: 450px;
+  }
+  #clientslovetext {
+    max-width: 270px;
+    margin-top: -50px;
+    margin-left: -20px;
+  }
+  #clientsstar {
+    margin-top: -150px;
+    margin-right: -230px;
+  }
+  #clientsmsg {
+    margin-top: -150px;
+    margin-right: -200px;
+  }
+  #clientsyellowball {
+    margin-top: -180px;
+  }
+  #clientslove {
+    margin-top: -210px;
+  }
+  #clientsheading {
+    font-size: 150px;
+  }
+  #subheading {
+    margin-top: 60px;
+    font-size: 40px;
+    line-height: 3vw;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -150px;
+    margin-top: -70px;
+  }
+  #clientsline {
+    margin-top: -60px;
+  }
+  #gapfromrhtt {
+    margin-top: -60px;
+  }
+  #workmsg {
+    position: relative;
+  }
+  #companieslogoheading {
+    font-size: 100px;
+  }
+  #serviceMcontent {
+    margin-top: 40px;
+    margin-left: -25px;
+  }
+  #servicesimages {
+    margin-left: 200px;
+  }
+  #gaps {
+    margin-top: -200px;
+  }
+  #solutionbucket {
+    margin-top: 100px;
+    margin-right: -200px;
+  }
+  #developmentcircle {
+    margin-top: -50px;
+    margin-left: 10px;
+  }
+  #developmentpic {
+    margin-top: -40px;
+    margin-left: 20px;
+  }
+  #developmentvolum {
+    margin-top: -30px;
+    margin-right: -150px;
+  }
+  #developmentclock {
+    min-width: 200px;
+    margin-top: -70px;
+    margin-right: -150px;
+  }
+  #servicescubes3d {
+    margin-right: -200px;
+  }
+  #contactcircle {
+    margin-left: -10px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -180px;
+  }
+  #contactplane {
+    margin-left: -10px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-right: -200px;
+  }
+  #contactsend {
+    margin-left: -40px;
+    margin-top: -30px;
+  }
+  #pushleftcenterr {
+    margin-right: 450px;
+  }
+  #award-titlee {
+    margin-right: -150px;
+  }
+  #logoss {
+    margin-top: 100px;
+  }
+  #portcontent {
+    margin-bottom: -120px;
+  }
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -30px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -70px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -50px;
+  }
+  #profiles {
+    margin-right: -70px;
+  }
+  #mouseport {
+    margin-top: 0px;
+    margin-left: -100px;
+  }
+  #cubeport {
+    margin-top: -20px;
+    margin-right: -150px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftgo {
+    min-width: 600px;
+    margin-right: -300px;
+  }
+  #leftback {
+    min-width: 1100px;
+    margin-left: -300px;
+  }
+  #leftgoo {
+    min-width: 1100px;
+    margin-right: -300px;
+  }
+  #leftbackk {
+    margin-left: -300px;
+    min-width: 600px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -10px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #clientline {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #designyellowball {
+    margin-top: -40px;
+    margin-right: -70px;
+  }
+  #designcube {
+    margin-top: -70px;
+    margin-left: 50px;
+  }
+}
+
+#rigjtarrow{
+  max-width: 150px;
+}
+#talkrow {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-left: 270px;
+}
+
+#playbutton {
+  position: relative;
+  top: -160px;
+  right: -230px;
+  max-width: 120px;
+}
+
+#playiicon {
+  position: relative;
+  top: -195px;
+  right: -150px;
+  max-width: 40px;
+}
+
+#companieslogoheading {
+  font-size: 120px;
+}
+
+@media (min-width: 2030px) and (max-width: 2060px) {
+  #heorocontent {
+    margin-top: 210px;
+    margin-left: 130px;
+  }
+  #logos{
+    margin-right: 6px;
+  }
+  #circle-top1 {
+    margin-top: -10px;
+    margin-left: 181px;
+  }
+  #S1yellowball {
+    margin-top: 20px;
+    margin-left: 140px;
+  }
+  #pushleftcenter {
+    margin-left: 306px;
+    margin-top: -30px;
+  }
+  #cubepic {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #mousepic {
+    margin-right: 70px;
+    margin-top: 40px;
+  }
+  #rocketman {
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+    min-width: 250px;
+  }
+  #backgroundd {
+    position: absolute;
+    left: 1140px;
+    top: 160px;
+    min-width: 170px;
+  }
+  #flowerpic {
+    position: absolute;
+    left: 1470px;
+    top: 320px;
+    min-width: 60px;
+  }
+  /* ==================================================== */
+  #light-bulb {
+    position: relative;
+    top: -80px;
+  }
+  #S2lamppic {
+    margin-top: 230px;
+    margin-right: -10px;
+  }
+  #lightbulbs{
+    margin-top: 200px;
+    margin-right: 800px;
+  }
+  #heart{
+    margin-right: -150px;
+  }
+  /* ============================== */
+  #S3topcontent {
+    margin-right: 500px;
+    margin-top: -1200px;
+  }
+  #S3cube {
+    height: 255px;
+    min-width: 240px;
+    margin-left: -800px;
+    margin-top: 330px;
+  }
+  #S3cubeplay {
+    position: relative;
+    margin-left: -430px;
+    margin-top: 530px;
+    max-width: 220px;
+  }
+  #yelowplayball {
+    position: absolute;
+    left: 670px;
+    top: 100px;
+  }
+  #S3greencube {
+    margin-top: 250px;
+    position: absolute;
+    top: -30px;
+    left: 450px;
+    min-width: 910px;
+    min-height: 510px;
+  }
+  #S3blueball {
+    margin-right: -300px;
+    margin-top: 130px;
+    max-width: 170px;
+    min-height: 170px;
+    height: 70px;
+    position: absolute;
+    top: 120px;
+  }
+  #S3shadow {
+    position: absolute;
+    top: 600px;
+    left: 450px;
+    max-width: 400px;
+  }
+  #S3keyboard {
+    min-height: 90px;
+    min-width: 650px;
+    position: absolute;
+    top: 840px;
+    left: 280px;
+  }
+  #cubedwnyellow {
+    position: absolute;
+    top: -200px;
+    left: -550px;
+  }
+  #S3buisnesspic {
+    margin-right: -100px;
+    margin-top: -150px;
+  }
+  #glossygreeen {
+    position: relative;
+    top: -390px;
+    margin-left: 270px;
+    margin-top: -200px;
+    min-width: 500px;
+    min-height: 500px;
+  }
+  #glossypink {
+    max-width: 100px;
+    max-width: 680px;
+    min-height: 500px;
+    position: relative;
+    top: -920px;
+    margin-left:  270px;
+  }
+  #S3line {
+    position: relative;
+    top: 200px;
+    left: -40px;
+  }
+  #learnmorebtn {
+    margin-right: 130px;
+    padding: 30px 250px;
+  }
+  /* ========================================================= */
+  #makingtopcontent{
+    margin-right: 160px;
+  }
+  #makingircle {
+    position: absolute;
+    left: -350px;
+    top: 40px;
+    margin-right: -700px;
+  }
+  #S4mancheckerpic {
+    margin-top: 30px;
+    margin-right: 150px;
+  }
+  #S4filespic {
+    margin-top: 90px;
+    margin-left: 10px;
+  }
+  #S4listingpic {
+    min-width: 530px;
+    min-height: 530px;
+    margin-left: -89px;
+    margin-top: 45px;
+  }
+  #S4messagepic {
+    margin-bottom: 70px;
+    margin-right: 120px;
+  }
+  #S4blueballpic {
+    max-width: 180px;
+    margin-top: 70px;
+    position: absolute;
+    left: 750px;
+  }
+  #S4cubepic {
+    min-width: 230px;
+    margin-left: 50px;
+    margin-top: 10px;
+  }
+  /* ====================================================== */
+  #marketpshleft {
+    margin-top: -100px;
+    margin-right: 600px;
+  }
+  #marketmonitor {
+    position: relative;
+    right: -170px;
+    top: 10px;
+  }
+  #bluecirclemarket {
+    position: relative;
+    left: 300px;
+  }
+  #redcylinder {
+    min-width: 100px;
+  }
+  #greenlinder {
+    min-width: 100px;
+    position: absolute;
+    left: 1000px;
+  }
+  #greencylinder {
+    position: relative;
+    top: -10px;
+  }
+  #marketcompas {
+    min-width: 170px;
+    margin-left: -20px;
+  }
+  #marketgraph {
+    margin-bottom: -20px;
+    margin-right: -300px;
+  }
+  /* ========================================================= */
+  #pushlefttop {
+    margin-top: -200px;
+    margin-right: 740px;
+  }
+  #S6sim {
+    position: relative;
+    left: 70px;
+    top: -30px;
+    min-width: 950px;
+    min-height: 580px;
+  }
+  #S6coin {
+    max-width: 220px;
+    margin-left: -130px;
+    margin-top: 30px;
+  }
+  #S6phone {
+    margin-top: -70px;
+    margin-right: -230px;
+  }
+  #S6cube {
+    margin-right: -200px;
+    margin-top: -10px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: -80px;
+    margin-left: -10px;
+  }
+  #S6yellowball {
+    max-width: 180px;
+    margin-top: -100px;
+    margin-left: 10px;
+  }
+  #S6line {
+    margin-top: -80px;
+  }
+  .chat-btunn {
+    font-family: var(--sub-font);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 150px;
+    border-radius: 7px;
+  }
+  /* ============================================================== */
+  #pushingtoright {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -250px;
+    min-width: 800px;
+    top: 50px;
+    min-height: 600px;
+  }
+  #usermarker {
+    margin-top: 30px;
+    margin-left: 150px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -360px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 80px;
+    margin-right: -350px;
+  }
+  /* =========================0--------------======================= */
+  #pushingtoleft {
+    margin-top: -300px;
+    margin-left: 200px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 35px;
+    min-width: 650px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-top: 30px;
+    margin-left: -45px;
+  }
+  #godcodefonts {
+    margin-right: -200px;
+  }
+  #godcodecolors {
+    max-width: 250px;
+    margin-left: 40px;
+    margin-bottom: -10px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -230px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================== */
+  #topheading {
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 600px;
+    position: relative;
+    right: -270px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -380px;
+    margin-bottom: -30px;
+  }
+  #S9megaphone {
+    max-width: 180px;
+    margin-left: 230px;
+    margin-bottom: 75px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 80px;
+    margin-left: 170px;
+  }
+  #S9yellowball {
+    max-width: 150px;
+    margin-top: -100px;
+    margin-right: -170px;
+  }
+  #S9line {
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -100px;
+    right: -240px;
+  }
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -10px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 400px;
+  }
+  #S10cloudone {
+    min-width: 330px;
+    margin-top: 80px;
+    margin-left: -95px;
+  }
+  #S10cloudtwo {
+    min-width: 330px;
+    margin-left: 05px;
+    margin-top: 20px;
+  }
+  #S10triangle {
+    margin-top: 230px;
+    margin-right: -120px;
+  }
+  #S10search {
+    min-width: 500px;
+    margin-top: 420px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 600px;
+    margin-left: -30px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================ */
+  #exacfolder {
+    min-width: 900px;
+    position: relative;
+    top: -70px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: -40px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 200px;
+    margin-top: 140px;
+    margin-left: -100px;
+  }
+  #exaccup {
+    position: relative;
+    top: -100px;
+    max-width: 250px;
+    margin-left: -130px;
+  }
+  #S11cube {
+    position: absolute;
+    left:  1200px;
+    margin-top: 200px;
+    margin-right: -50px;
+  }
+  #exacline {
+    margin-top: 220px;
+  }
+  #pushleft{
+    margin-left: -160px;
+  }
+  /* ============================================================== */
+  #S12bucket {
+    max-width: 500px;
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -170px;
+    margin-top: 70px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 180px;
+    position: absolute;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  #secretcircle-2 {
+    margin-top: -100px;
+    margin-left: 130px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1080px;
+    margin-top: 70px;
+    max-width: 170px;
+    max-height: 170px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -330px;
+    margin-top: 200px;
+  }
+  #S12man {
+    min-width: 950px;
+  }
+  #S12yellowball {
+    max-width: 170px;
+    margin-top: -150px;
+    margin-left: 100px;
+  }
+  #S12line {
+    margin-left: 50px;
+  }
+  /* ======================================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* /////////////////////////////////////////////////////////// */
+  /* ========================------------------====================== */
+  /* /////////////////////////////////////////////////////////// */
+  #clientsfirstcircle {
+    margin-top: -150px;
+    margin-left: 100px;
+    max-width: 450px;
+    max-height: 450px;
+  }
+  #clientslovetext {
+    max-width: 270px;
+    margin-top: -50px;
+    margin-left: -20px;
+  }
+  #clientsstar {
+    margin-top: -150px;
+    margin-right: -230px;
+  }
+  #clientsmsg {
+    margin-top: -150px;
+    margin-right: -200px;
+  }
+  #clientsyellowball {
+    margin-top: -180px;
+  }
+  #clientslove {
+    margin-top: -210px;
+  }
+  #clientsheading {
+    font-size: 150px;
+  }
+  #subheading {
+    margin-top: 60px;
+    font-size: 40px;
+    line-height: 3vw;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -150px;
+    margin-top: -70px;
+  }
+  #clientsline {
+    margin-top: -60px;
+  }
+  #gapfromrhtt {
+    margin-top: -60px;
+  }
+  #workmsg {
+    position: relative;
+  }
+  #companieslogoheading {
+    font-size: 100px;
+  }
+  #serviceMcontent {
+    margin-top: 40px;
+    margin-left: -25px;
+  }
+  #servicesimages {
+    margin-left: 200px;
+  }
+  #gaps {
+    margin-top: -200px;
+  }
+  #solutionbucket {
+    margin-top: 100px;
+    margin-right: -200px;
+  }
+  #developmentcircle {
+    margin-top: -50px;
+    margin-left: 10px;
+  }
+  #developmentpic {
+    margin-top: -40px;
+    margin-left: 20px;
+  }
+  #developmentvolum {
+    margin-top: -30px;
+    margin-right: -150px;
+  }
+  #developmentclock {
+    min-width: 200px;
+    margin-top: -70px;
+    margin-right: -150px;
+  }
+  #servicescubes3d {
+    margin-right: -200px;
+  }
+  #contactcircle {
+    margin-left: -10px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -180px;
+  }
+  #contactplane {
+    margin-left: -10px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-right: -200px;
+  }
+  #contactsend {
+    margin-left: -40px;
+    margin-top: -30px;
+  }
+  #pushleftcenterr {
+    margin-right: 450px;
+  }
+  #award-titlee {
+    margin-right: -150px;
+  }
+  #logoss {
+    margin-top: -10px;
+  }
+  #portcontent {
+    margin-bottom: -120px;
+  }
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -30px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -70px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -50px;
+  }
+  #profiles {
+    margin-right: -70px;
+  }
+  #mouseport {
+    margin-top: 0px;
+    margin-left: -100px;
+  }
+  #cubeport {
+    margin-top: -20px;
+    margin-right: -150px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftgo {
+    min-width: 600px;
+    margin-right: -300px;
+  }
+  #leftback {
+    min-width: 1100px;
+    margin-left: -300px;
+  }
+  #leftgoo {
+    min-width: 1100px;
+    margin-right: -300px;
+  }
+  #leftbackk {
+    margin-left: -300px;
+    min-width: 600px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -10px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #clientline {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #designyellowball {
+    margin-top: -40px;
+    margin-right: -70px;
+  }
+  #designcube {
+    margin-top: -70px;
+    margin-left: 50px;
+  }
+  #portchatbtn{
+    margin-top: -150px;
+  }
+}
+
+#globalmain{
+  margin-top: -700px;
+}
+#worldglobe{
+  min-width: 300px;
+  min-height: 300px;
+}    left: 110px;
+    top: 60px;
+    min-width: 1200px;
+    min-height: 730px;
+  }
+  #S6coin {
+    max-width: 250px;
+    margin-left: -110px;
+    margin-top: 120px;
+  }
+  #S6phone {
+    margin-right: -280px;
+  }
+  #S6cube {
+    margin-right: -150px;
+    margin-top: 10px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: 10px;
+    margin-left: 70px;
+  }
+  #S6yellowball {
+    margin-top: -114px;
+    margin-left: 150px;
+  }
+  #pushingtoright {
+    margin-top: -400px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -500px;
+    min-width: 900px;
+    top: 70px;
+    min-height: 700px;
+  }
+  #usermarker {
+    margin-top: 40px;
+    margin-left: 200px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -770px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 120px;
+    margin-right: -670px;
+  }
+  #pushingtoleft {
+    margin-top: -500px;
+    margin-left: 430px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 100px;
+    min-width: 800px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-left: -180px;
+    margin-top: 140px;
+  }
+  #godcodefonts {
+    margin-right: -370px;
+  }
+  #godcodecolors {
+    max-width: 300px;
+    margin-left: -120px;
+    margin-bottom: -90px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -370px;
+    margin-bottom: -90px;
+  }
+  #topheading {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 750px;
+    position: relative;
+    right: -400px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -700px;
+    margin-bottom: -40px;
+  }
+  #S9megaphone {
+    max-width: 250px;
+    margin-left: 190px;
+    margin-bottom: 100px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 180px;
+  }
+  #S9yellowball {
+    max-width: 200px;
+    margin-top: -180px;
+    margin-right: -450px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -30px;
+    right: -400px;
+  }
+  /* ==================================================------- */
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -200px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 540px;
+  }
+  #S10cloudone {
+    min-width: 370px;
+    margin-top: 100px;
+    margin-left: -265px;
+  }
+  #S10cloudtwo {
+    min-width: 370px;
+    margin-left: -180px;
+    margin-top: 70px;
+  }
+  #S10triangle {
+    margin-top: 350px;
+    margin-right: -290px;
+  }
+  #S10search {
+    min-width: 650px;
+    margin-top: 670px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 750px;
+    margin-left: -200px;
+  }
+  /* ============================================--------------- */
+  #exacfolder {
+    position: relative;
+    right: -160px;
+    min-width: 900px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: 10px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 220px;
+    margin-top: 90px;
+    margin-left: -170px;
+  }
+  #exaccup {
+    max-width: 250px;
+    margin-top: 90px;
+    margin-left: -240px;
+  }
+  #S11cube {
+    max-width: 250px;
+    margin-top: 130px;
+    margin-right: -240px;
+  }
+  #S12bucket {
+    max-width: 500px;
+    margin-left: 100px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -390px;
+    margin-top: 140px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 50px;
+    position: absolute;
+    max-width: 340px;
+    max-height: 340px;
+  }
+  #secretcircle-2 {
+    margin-top: -120px;
+    margin-left: 80px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1230px;
+    margin-top: 150px;
+    max-width: 190px;
+    max-height: 190px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -490px;
+    margin-top: 280px;
+  }
+  #S12man {
+    min-width: 1150px;
+  }
+  #S12yellowball {
+    max-width: 200px;
+    margin-top: -130px;
+    margin-left: 100px;
+  }
+  /* ===============================------- */
+  #downloadsheadings {
+    margin-top: -200px;
+    margin-left: 200px;
+  }
+  #cardsofdownloads {
+    margin-right: -400px;
+  }
+  #downloadcircle {
+    max-width: 170px;
+    max-height: 170px;
+    margin-left: -60px;
+  }
+  /* ======================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* ============================================================= */
+  /* -------------------------------------------------------------- */
+  /* ============================================================= */
+  #clientsfirstcircle {
+    margin-top: 30px;
+    margin-left: 200px;
+    max-width: 550px;
+    max-height: 550px;
+  }
+  #clientslovetext {
+    margin-top: 150px;
+    margin-left: -120px;
+  }
+  #clientsstar {
+    margin-top: 30px;
+    margin-right: -480px;
+  }
+  #clientsmsg {
+    margin-right: -350px;
+  }
+  #clientsyellowball {
+    margin-top: -50px;
+  }
+  #clientsheading {
+    font-size: 100px;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -400px;
+  }
+  #subheading {
+    font-size: 50px;
+    line-height: 3vw;
+  }
+  #industriesheading {
+    margin-left: 100px;
+  }
+  #istdiv {
+    height: 600px;
+    width: 380px;
+  }
+  #cardtopheading {
+    font-weight: bold;
+    font-size: 24px;
+    margin-top: 15px;
+  }
+  #playblue {
+    margin-left: 80px;
+    height: 190px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  #cardsubheading {
+    font-size: 24px;
+  }
+  #rows {
+    margin-right: -100px;
+  }
+  #rowse {
+    margin-right: -100px;
+  }
+  #servedyellowcube {
+    margin-left: 1100px;
+  }
+  #workmsg {
+    margin-left: -300px;
+  }
+  /* ============================================================= */
+  /* -------------------------------------------------------------- */
+  /* ============================================================= */
+  #servicesimages {
+    margin-left: 480px;
+    margin-top: 10px;
+  }
+  #serviceMcontent {
+    margin-left: -170px;
+    margin-top: 100px;
+  }
+  #gaps {
+    margin-bottom: 100px;
+  }
+  #servicescubes {
+    margin-top: -80px;
+  }
+  #servecespot {
+    position: absolute;
+    left: 1440px;
+    top: -300px;
+  }
+  #servicescubes3d {
+    margin-right: -400px;
+  }
+  #designsolutioncontent {
+    margin-left: 200px;
+  }
+  #solutionbucket {
+    margin-top: 150px;
+    margin-right: -400px;
+  }
+  #developmentvolum {
+    margin-top: -100px;
+    margin-right: -160px;
+    max-width: 170px;
+  }
+  #developmentclock {
+    margin-top: -200px;
+    margin-right: -195px;
+    max-width: 250px;
+  }
+  #developmentcircle {
+    margin-left: -70px;
+    max-width: 200px;
+    margin-top: -170px;
+  }
+  #developmentpic {
+    margin-left: -30px;
+    max-width: 200px;
+    margin-top: -130px;
+  }
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  #contactcircle {
+    margin-left: -120px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -320px;
+  }
+  #contactplane {
+    margin-left: -90px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: -30px;
+    max-width: 250px;
+    margin-right: -240px;
+  }
+  #contactsend {
+    margin-left: -140px;
+    margin-top: -120px;
+  }
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -200px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -200px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -180px;
+  }
+  #profiles {
+    margin-right: -80px;
+  }
+  #mouseport {
+    margin-left: -200px;
+  }
+  #cubeport {
+    margin-top: -100px;
+    margin-right: -250px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftback {
+    margin-left: -300px;
+  }
+  #leftgo {
+    margin-left: 300px;
+  }
+  #letschatport {
+    margin-top: -150px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -100px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #designyellowball {
+    margin-top: -80px;
+    margin-right: -300px;
+  }
+  #designcube {
+    margin-top: -100px;
+    margin-left: -80px;
+  }
+}
+
+@media (min-width: 1950px) and (max-width: 2030px) {
+  #heorocontent {
+    margin-top: 210px;
+    margin-left: -50px;
+  }
+  #circle-top1 {
+    margin-top: -10px;
+    margin-left: -1px;
+  }
+  #S1yellowball {
+    margin-left: -40px;
+  }
+  #pushleftcenter {
+    margin-top: 70px;
+    margin-right: 550px;
+  }
+  #cubepic {
+    margin-top: 120px;
+    margin-left: -130px;
+  }
+  #mousepic {
+    margin-top: 130px;
+  }
+  #rocketman {
+    position: absolute;
+    left: 700px;
+    top: 120px;
+    min-width: 250px;
+  }
+  #backgroundd {
+    position: absolute;
+    left: 870px;
+    top: 220px;
+    min-width: 170px;
+  }
+  #flowerpic {
+    position: absolute;
+    left: 1200px;
+    top: 400px;
+    min-width: 60px;
+  }
+  /* ==================================================== */
+  #light-bulb {
+    position: relative;
+    top: -80px;
+  }
+  #S2lamppic {
+    margin-right: -50px;
+  }
+  #lightbulbs{
+    margin-top: -100px;
+    margin-right: 400px;
+  }
+  /* ============================== */
+  #S3topcontent {
+    margin-right: 500px;
+    margin-top: -250px;
+  }
+  #S3cube {
+    height: 255px;
+    min-width: 240px;
+    margin-left: -700px;
+    margin-top: 330px;
+  }
+  #S3cubeplay {
+    position: relative;
+    margin-left: -330px;
+    margin-top: 530px;
+    max-width: 220px;
+  }
+  #S3greencube {
+    margin-top: 250px;
+    position: absolute;
+    top: 520px;
+    left: 650px;
+    width: 30px;
+  }
+  #S3blueball {
+    margin-right: -300px;
+    margin-top: 130px;
+    max-width: 170px;
+    min-height: 170px;
+    height: 70px;
+    position: absolute;
+    top: 10px;
+  }
+  #S3shadow {
+    position: absolute;
+    top: 520px;
+    left: 430px;
+    min-width: 450px;
+  }
+  #S3keyboard {
+    max-height: 60px;
+    min-width: 550px;
+    position: absolute;
+    top: 700px;
+    left: 350px;
+  }
+  #S3buisnesspic {
+    margin-right: -100px;
+    margin-top: -150px;
+  }
+  #glossygreeen {
+    margin-left: 270px;
+    margin-top: -200px;
+    min-width: 500px;
+    min-height: 500px;
+  }
+  #glossypink {
+    max-width: 100px;
+    max-width: 680px;
+    min-height: 500px;
+    position: relative;
+    top: -190px;
+  }
+  #S3line {
+    position: relative;
+    top: 200px;
+    left: -40px;
+  }
+  #learnmorebtn {
+    margin-right: -30px;
+    padding: 30px 250px;
+  }
+  /* ========================================================= */
+  #makingircle {
+    position: absolute;
+    left: -230px;
+    top: 40px;
+    margin-right: -700px;
+  }
+  #S4mancheckerpic {
+    margin-top: 40px;
+    margin-right: -10px;
+  }
+  #S4filespic {
+    margin-top: 90px;
+    margin-left: 200px;
+  }
+  #S4listingpic {
+    min-width: 530px;
+    min-height: 530px;
+    margin-left: 20px;
+    margin-top: 45px;
+  }
+  #S4messagepic {
+    margin-bottom: 70px;
+    margin-right: 70px;
+  }
+  #S4blueballpic {
+    max-width: 180px;
+    margin-top: 70px;
+    position: absolute;
+    left: 870px;
+  }
+  #S4cubepic {
+    min-width: 230px;
+    margin-left: 150px;
+    margin-top: 10px;
+  }
+  /* ====================================================== */
+  #marketpshleft {
+    margin-top: -100px;
+    margin-right: 600px;
+  }
+  #marketmonitor {
+    position: relative;
+    right: -170px;
+    top: 10px;
+  }
+  #bluecirclemarket {
+    position: relative;
+    left: 300px;
+  }
+  #redcylinder {
+    min-width: 100px;
+  }
+  #greenlinder {
+    min-width: 100px;
+    position: absolute;
+    left: 1000px;
+  }
+  #greencylinder {
+    position: relative;
+    top: -10px;
+  }
+  #marketcompas {
+    min-width: 170px;
+    margin-left: -20px;
+  }
+  #marketgraph {
+    margin-bottom: -20px;
+    margin-right: -300px;
+  }
+  /* ========================================================= */
+  #pushlefttop {
+    margin-top: -300px;
+    margin-right: 600px;
+  }
+  #S6sim {
+    position: relative;
+    left: 110px;
+    top: -30px;
+    min-width: 950px;
+    min-height: 580px;
+  }
+  #S6coin {
+    max-width: 220px;
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+  #S6phone {
+    margin-top: -70px;
+    margin-right: -140px;
+  }
+  #S6cube {
+    margin-right: -100px;
+    margin-top: -30px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: -80px;
+    margin-left: 140px;
+  }
+  #S6yellowball {
+    max-width: 180px;
+    margin-top: -114px;
+    margin-left: 150px;
+  }
+  #S6line {
+    margin-top: -80px;
+  }
+  .chat-btunn {
+    font-family: var(--sub-font);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 150px;
+    border-radius: 7px;
+  }
+  /* ============================================================== */
+  #pushingtoright {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -250px;
+    min-width: 800px;
+    top: 50px;
+    min-height: 600px;
+  }
+  #usermarker {
+    margin-top: 30px;
+    margin-left: 150px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -340px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 80px;
+    margin-right: -350px;
+  }
+  /* =========================0--------------======================= */
+  #pushingtoleft {
+    margin-top: -300px;
+    margin-left: 200px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 35px;
+    min-width: 650px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-top: 30px;
+    margin-left: -30px;
+  }
+  #godcodefonts {
+    margin-right: -170px;
+  }
+  #godcodecolors {
+    max-width: 250px;
+    margin-left: 40px;
+    margin-bottom: -10px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -200px;
+    margin-bottom: -90px;
+  }
+  /* ============================================================== */
+  #topheading {
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 600px;
+    position: relative;
+    right: -270px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -370px;
+    margin-bottom: -30px;
+  }
+  #S9megaphone {
+    max-width: 180px;
+    margin-left: 230px;
+    margin-bottom: 75px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 80px;
+    margin-left: 170px;
+  }
+  #S9yellowball {
+    max-width: 150px;
+    margin-top: -100px;
+    margin-right: -170px;
+  }
+  #S9line {
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -100px;
+    right: -240px;
+  }
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -10px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 400px;
+  }
+  #S10cloudone {
+    min-width: 330px;
+    margin-top: 80px;
+    margin-left: -95px;
+  }
+  #S10cloudtwo {
+    min-width: 330px;
+    margin-left: 05px;
+    margin-top: 20px;
+  }
+  #S10triangle {
+    margin-top: 230px;
+    margin-right: -120px;
+  }
+  #S10search {
+    min-width: 500px;
+    margin-top: 420px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 600px;
+    margin-left: -30px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================ */
+  #exacfolder {
+    min-width: 900px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: 30px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 170px;
+    margin-top: 170px;
+    margin-left: -120px;
+  }
+  #exaccup {
+    max-width: 250px;
+    margin-top: 90px;
+    margin-left: -130px;
+  }
+  #S11cube {
+    margin-top: 200px;
+    margin-right: -50px;
+  }
+  #exacline {
+    margin-top: 220px;
+  }
+  /* ============================================================== */
+  #S12bucket {
+    max-width: 500px;
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -170px;
+    margin-top: 70px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 180px;
+    position: absolute;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  #secretcircle-2 {
+    margin-top: -100px;
+    margin-left: 130px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1080px;
+    margin-top: 70px;
+    max-width: 170px;
+    max-height: 170px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -330px;
+    margin-top: 200px;
+  }
+  #S12man {
+    min-width: 950px;
+  }
+  #S12yellowball {
+    max-width: 170px;
+    margin-top: -150px;
+    margin-left: 100px;
+  }
+  #S12line {
+    margin-left: 50px;
+  }
+  /* ======================================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* /////////////////////////////////////////////////////////// */
+  /* ========================------------------====================== */
+  /* /////////////////////////////////////////////////////////// */
+  #clientsfirstcircle {
+    margin-top: -150px;
+    margin-left: 100px;
+    max-width: 450px;
+    max-height: 450px;
+  }
+  #clientslovetext {
+    max-width: 270px;
+    margin-top: -50px;
+    margin-left: -20px;
+  }
+  #clientsstar {
+    margin-top: -150px;
+    margin-right: -230px;
+  }
+  #clientsmsg {
+    margin-top: -150px;
+    margin-right: -200px;
+  }
+  #clientsyellowball {
+    margin-top: -180px;
+  }
+  #clientslove {
+    margin-top: -210px;
+  }
+  #clientsheading {
+    font-size: 150px;
+  }
+  #subheading {
+    margin-top: 60px;
+    font-size: 40px;
+    line-height: 3vw;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -150px;
+    margin-top: -70px;
+  }
+  #clientsline {
+    margin-top: -60px;
+  }
+  #gapfromrhtt {
+    margin-top: -60px;
+  }
+  #workmsg {
+    position: relative;
+  }
+  #companieslogoheading {
+    font-size: 100px;
+  }
+  #serviceMcontent {
+    margin-top: 40px;
+    margin-left: -25px;
+  }
+  #servicesimages {
+    margin-left: 200px;
+  }
+  #gaps {
+    margin-top: -200px;
+  }
+  #solutionbucket {
+    margin-top: 100px;
+    margin-right: -200px;
+  }
+  #developmentcircle {
+    margin-top: -50px;
+    margin-left: 10px;
+  }
+  #developmentpic {
+    margin-top: -40px;
+    margin-left: 20px;
+  }
+  #developmentvolum {
+    margin-top: -30px;
+    margin-right: -150px;
+  }
+  #developmentclock {
+    min-width: 200px;
+    margin-top: -70px;
+    margin-right: -150px;
+  }
+  #servicescubes3d {
+    margin-right: -200px;
+  }
+  #contactcircle {
+    margin-left: -10px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -180px;
+  }
+  #contactplane {
+    margin-left: -10px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-right: -200px;
+  }
+  #contactsend {
+    margin-left: -40px;
+    margin-top: -30px;
+  }
+  #pushleftcenterr {
+    margin-right: 450px;
+  }
+  #award-titlee {
+    margin-right: -150px;
+  }
+  #logoss {
+    margin-top: 100px;
+  }
+  #portcontent {
+    margin-bottom: -120px;
+  }
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -30px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -70px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -50px;
+  }
+  #profiles {
+    margin-right: -70px;
+  }
+  #mouseport {
+    margin-top: 0px;
+    margin-left: -100px;
+  }
+  #cubeport {
+    margin-top: -20px;
+    margin-right: -150px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftgo {
+    min-width: 600px;
+    margin-right: -300px;
+  }
+  #leftback {
+    min-width: 1100px;
+    margin-left: -300px;
+  }
+  #leftgoo {
+    min-width: 1100px;
+    margin-right: -300px;
+  }
+  #leftbackk {
+    margin-left: -300px;
+    min-width: 600px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -10px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #clientline {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #designyellowball {
+    margin-top: -40px;
+    margin-right: -70px;
+  }
+  #designcube {
+    margin-top: -70px;
+    margin-left: 50px;
+  }
+}
+
+#rigjtarrow{
+  max-width: 150px;
+}
+#talkrow {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-left: 270px;
+}
+
+#playbutton {
+  position: relative;
+  top: -160px;
+  right: -230px;
+  max-width: 120px;
+}
+
+#playiicon {
+  position: relative;
+  top: -195px;
+  right: -150px;
+  max-width: 40px;
+}
+
+#companieslogoheading {
+  font-size: 120px;
+}
+
+@media (min-width: 2030px) and (max-width: 2060px) {
+  #heorocontent {
+    margin-top: 210px;
+    margin-left: 130px;
+  }
+  #logos{
+    margin-right: 6px;
+  }
+  #circle-top1 {
+    margin-top: -10px;
+    margin-left: 181px;
+  }
+  #S1yellowball {
+    margin-top: 20px;
+    margin-left: 140px;
+  }
+  #pushleftcenter {
+    margin-left: 306px;
+    margin-top: -30px;
+  }
+  #cubepic {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #mousepic {
+    margin-right: 70px;
+    margin-top: 40px;
+  }
+  #rocketman {
+    position: absolute;
+    left: 1000px;
+    top: 40px;
+    min-width: 250px;
+  }
+  #backgroundd {
+    position: absolute;
+    left: 1140px;
+    top: 160px;
+    min-width: 170px;
+  }
+  #flowerpic {
+    position: absolute;
+    left: 1470px;
+    top: 320px;
+    min-width: 60px;
+  }
+  /* ==================================================== */
+  #light-bulb {
+    position: relative;
+    top: -80px;
+  }
+  #S2lamppic {
+    margin-top: 230px;
+    margin-right: -10px;
+  }
+  #lightbulbs{
+    margin-top: 200px;
+    margin-right: 800px;
+  }
+  #heart{
+    margin-right: -150px;
+  }
+  /* ============================== */
+  #S3topcontent {
+    margin-right: 500px;
+    margin-top: -1200px;
+  }
+  #S3cube {
+    height: 255px;
+    min-width: 240px;
+    margin-left: -800px;
+    margin-top: 330px;
+  }
+  #S3cubeplay {
+    position: relative;
+    margin-left: -430px;
+    margin-top: 530px;
+    max-width: 220px;
+  }
+  #yelowplayball {
+    position: absolute;
+    left: 670px;
+    top: 100px;
+  }
+  #S3greencube {
+    margin-top: 250px;
+    position: absolute;
+    top: -30px;
+    left: 450px;
+    min-width: 910px;
+    min-height: 510px;
+  }
+  #S3blueball {
+    margin-right: -300px;
+    margin-top: 130px;
+    max-width: 170px;
+    min-height: 170px;
+    height: 70px;
+    position: absolute;
+    top: 120px;
+  }
+  #S3shadow {
+    position: absolute;
+    top: 600px;
+    left: 450px;
+    max-width: 400px;
+  }
+  #S3keyboard {
+    min-height: 90px;
+    min-width: 650px;
+    position: absolute;
+    top: 840px;
+    left: 280px;
+  }
+  #cubedwnyellow {
+    position: absolute;
+    top: -200px;
+    left: -550px;
+  }
+  #S3buisnesspic {
+    margin-right: -100px;
+    margin-top: -150px;
+  }
+  #glossygreeen {
+    position: relative;
+    top: -390px;
+    margin-left: 270px;
+    margin-top: -200px;
+    min-width: 500px;
+    min-height: 500px;
+  }
+  #glossypink {
+    max-width: 100px;
+    max-width: 680px;
+    min-height: 500px;
+    position: relative;
+    top: -920px;
+    margin-left:  270px;
+  }
+  #S3line {
+    position: relative;
+    top: 200px;
+    left: -40px;
+  }
+  #learnmorebtn {
+    margin-right: 130px;
+    padding: 30px 250px;
+  }
+  /* ========================================================= */
+  #makingtopcontent{
+    margin-right: 160px;
+  }
+  #makingircle {
+    position: absolute;
+    left: -350px;
+    top: 40px;
+    margin-right: -700px;
+  }
+  #S4mancheckerpic {
+    margin-top: 30px;
+    margin-right: 150px;
+  }
+  #S4filespic {
+    margin-top: 90px;
+    margin-left: 10px;
+  }
+  #S4listingpic {
+    min-width: 530px;
+    min-height: 530px;
+    margin-left: -89px;
+    margin-top: 45px;
+  }
+  #S4messagepic {
+    margin-bottom: 70px;
+    margin-right: 120px;
+  }
+  #S4blueballpic {
+    max-width: 180px;
+    margin-top: 70px;
+    position: absolute;
+    left: 750px;
+  }
+  #S4cubepic {
+    min-width: 230px;
+    margin-left: 50px;
+    margin-top: 10px;
+  }
+  /* ====================================================== */
+  #marketpshleft {
+    margin-top: -100px;
+    margin-right: 600px;
+  }
+  #marketmonitor {
+    position: relative;
+    right: -170px;
+    top: 10px;
+  }
+  #bluecirclemarket {
+    position: relative;
+    left: 300px;
+  }
+  #redcylinder {
+    min-width: 100px;
+  }
+  #greenlinder {
+    min-width: 100px;
+    position: absolute;
+    left: 1000px;
+  }
+  #greencylinder {
+    position: relative;
+    top: -10px;
+  }
+  #marketcompas {
+    min-width: 170px;
+    margin-left: -20px;
+  }
+  #marketgraph {
+    margin-bottom: -20px;
+    margin-right: -300px;
+  }
+  /* ========================================================= */
+  #pushlefttop {
+    margin-top: -200px;
+    margin-right: 740px;
+  }
+  #S6sim {
+    position: relative;
+    left: 70px;
+    top: -30px;
+    min-width: 950px;
+    min-height: 580px;
+  }
+  #S6coin {
+    max-width: 220px;
+    margin-left: -130px;
+    margin-top: 30px;
+  }
+  #S6phone {
+    margin-top: -70px;
+    margin-right: -230px;
+  }
+  #S6cube {
+    margin-right: -200px;
+    margin-top: -10px;
+  }
+  #S6files {
+    max-width: 420px;
+    margin-top: -80px;
+    margin-left: -10px;
+  }
+  #S6yellowball {
+    max-width: 180px;
+    margin-top: -100px;
+    margin-left: 10px;
+  }
+  #S6line {
+    margin-top: -80px;
+  }
+  .chat-btunn {
+    font-family: var(--sub-font);
+    font-size: 18px;
+    font-weight: 700;
+    padding: 20px 150px;
+    border-radius: 7px;
+  }
+  /* ============================================================== */
+  #pushingtoright {
+    margin-top: -200px;
+    margin-left: 100px;
+  }
+  #userexp {
+    position: relative;
+    right: -250px;
+    min-width: 800px;
+    top: 50px;
+    min-height: 600px;
+  }
+  #usermarker {
+    margin-top: 30px;
+    margin-left: 150px;
+  }
+  #userExpRhand {
+    margin-top: 90px;
+    margin-right: -360px;
+  }
+  #userexpcube {
+    max-width: 220px;
+    margin-top: 80px;
+    margin-right: -350px;
+  }
+  /* =========================0--------------======================= */
+  #pushingtoleft {
+    margin-top: -300px;
+    margin-left: 200px;
+  }
+  #godcodebluescene {
+    position: relative;
+    right: -100px;
+    top: 35px;
+    min-width: 650px;
+  }
+  #godcodecode {
+    max-width: 290px;
+    margin-top: 30px;
+    margin-left: -45px;
+  }
+  #godcodefonts {
+    margin-right: -200px;
+  }
+  #godcodecolors {
+    max-width: 250px;
+    margin-left: 40px;
+    margin-bottom: -10px;
+  }
+  #godcodemouse {
+    max-width: 300px;
+    margin-right: -230px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================== */
+  #topheading {
+    margin-top: -50px;
+    margin-left: 100px;
+  }
+  #marketingscene {
+    min-width: 600px;
+    position: relative;
+    right: -270px;
+    top: -40px;
+  }
+  #S9rhand {
+    margin-right: -380px;
+    margin-bottom: -30px;
+  }
+  #S9megaphone {
+    max-width: 180px;
+    margin-left: 230px;
+    margin-bottom: 75px;
+  }
+  #S9cube {
+    margin-left: 130px;
+    margin-top: 80px;
+    margin-left: 170px;
+  }
+  #S9yellowball {
+    max-width: 150px;
+    margin-top: -100px;
+    margin-right: -170px;
+  }
+  #S9line {
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  .chaat-bttun {
+    padding: 30px 190px;
+    position: relative;
+    top: -100px;
+    right: -240px;
+  }
+  #topheadding {
+    font-weight: bold;
+    font-size: 70px;
+    margin-top: -10px;
+    margin-left: -100px;
+  }
+  #S10rocket {
+    position: relative;
+    top: 80px;
+    min-width: 400px;
+  }
+  #S10cloudone {
+    min-width: 330px;
+    margin-top: 80px;
+    margin-left: -95px;
+  }
+  #S10cloudtwo {
+    min-width: 330px;
+    margin-left: 05px;
+    margin-top: 20px;
+  }
+  #S10triangle {
+    margin-top: 230px;
+    margin-right: -120px;
+  }
+  #S10search {
+    min-width: 500px;
+    margin-top: 420px;
+    margin-right: -290px;
+  }
+  #S10msg {
+    min-width: 600px;
+    margin-left: -30px;
+    margin-bottom: -70px;
+  }
+  /* ============================================================ */
+  #exacfolder {
+    min-width: 900px;
+    position: relative;
+    top: -70px;
+  }
+  #exacmask {
+    max-width: 330px;
+    margin-top: -40px;
+    margin-left: -30px;
+  }
+  #exackeys {
+    min-width: 200px;
+    margin-top: 140px;
+    margin-left: -100px;
+  }
+  #exaccup {
+    position: relative;
+    top: -100px;
+    max-width: 250px;
+    margin-left: -130px;
+  }
+  #S11cube {
+    position: absolute;
+    left:  1200px;
+    margin-top: 200px;
+    margin-right: -50px;
+  }
+  #exacline {
+    margin-top: 220px;
+  }
+  #pushleft{
+    margin-left: -160px;
+  }
+  /* ============================================================== */
+  #S12bucket {
+    max-width: 500px;
+    margin-top: -100px;
+    margin-left: 200px;
+  }
+  #S12cube {
+    max-width: 170px;
+    margin-right: -170px;
+    margin-top: 70px;
+  }
+  #secretcircle-1 {
+    margin-top: -30px;
+    margin-left: 180px;
+    position: absolute;
+    max-width: 300px;
+    max-height: 300px;
+  }
+  #secretcircle-2 {
+    margin-top: -100px;
+    margin-left: 130px;
+    position: absolute;
+    max-width: 90px;
+    max-height: 90px;
+  }
+  #secretcircle-3 {
+    position: absolute;
+    left: 1080px;
+    margin-top: 70px;
+    max-width: 170px;
+    max-height: 170px;
+  }
+  #S12code {
+    max-width: 240px;
+    margin-right: -330px;
+    margin-top: 200px;
+  }
+  #S12man {
+    min-width: 950px;
+  }
+  #S12yellowball {
+    max-width: 170px;
+    margin-top: -150px;
+    margin-left: 100px;
+  }
+  #S12line {
+    margin-left: 50px;
+  }
+  /* ======================================================= */
+  #footers {
+    margin-top: 200px;
+  }
+  /* /////////////////////////////////////////////////////////// */
+  /* ========================------------------====================== */
+  /* /////////////////////////////////////////////////////////// */
+  #clientsfirstcircle {
+    margin-top: -150px;
+    margin-left: 100px;
+    max-width: 450px;
+    max-height: 450px;
+  }
+  #clientslovetext {
+    max-width: 270px;
+    margin-top: -50px;
+    margin-left: -20px;
+  }
+  #clientsstar {
+    margin-top: -150px;
+    margin-right: -230px;
+  }
+  #clientsmsg {
+    margin-top: -150px;
+    margin-right: -200px;
+  }
+  #clientsyellowball {
+    margin-top: -180px;
+  }
+  #clientslove {
+    margin-top: -210px;
+  }
+  #clientsheading {
+    font-size: 150px;
+  }
+  #subheading {
+    margin-top: 60px;
+    font-size: 40px;
+    line-height: 3vw;
+  }
+  #clientsloveheart {
+    min-width: 250px;
+    margin-right: -150px;
+    margin-top: -70px;
+  }
+  #clientsline {
+    margin-top: -60px;
+  }
+  #gapfromrhtt {
+    margin-top: -60px;
+  }
+  #workmsg {
+    position: relative;
+  }
+  #companieslogoheading {
+    font-size: 100px;
+  }
+  #serviceMcontent {
+    margin-top: 40px;
+    margin-left: -25px;
+  }
+  #servicesimages {
+    margin-left: 200px;
+  }
+  #gaps {
+    margin-top: -200px;
+  }
+  #solutionbucket {
+    margin-top: 100px;
+    margin-right: -200px;
+  }
+  #developmentcircle {
+    margin-top: -50px;
+    margin-left: 10px;
+  }
+  #developmentpic {
+    margin-top: -40px;
+    margin-left: 20px;
+  }
+  #developmentvolum {
+    margin-top: -30px;
+    margin-right: -150px;
+  }
+  #developmentclock {
+    min-width: 200px;
+    margin-top: -70px;
+    margin-right: -150px;
+  }
+  #servicescubes3d {
+    margin-right: -200px;
+  }
+  #contactcircle {
+    margin-left: -10px;
+    max-width: 500px;
+    max-height: 500px;
+  }
+  #contactmsg {
+    margin-right: -180px;
+  }
+  #contactplane {
+    margin-left: -10px;
+    max-width: 500px;
+  }
+  #contactkeyboard {
+    min-width: 800px;
+  }
+  #contactcup {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-right: -200px;
+  }
+  #contactsend {
+    margin-left: -40px;
+    margin-top: -30px;
+  }
+  #pushleftcenterr {
+    margin-right: 450px;
+  }
+  #award-titlee {
+    margin-right: -150px;
+  }
+  #logoss {
+    margin-top: -10px;
+  }
+  #portcontent {
+    margin-bottom: -120px;
+  }
+  #portfoliocircle {
+    margin-top: 40px;
+    max-width: 500px;
+    max-height: 500px;
+    margin-left: -30px;
+  }
+  #blueballport {
+    margin-top: 40px;
+    max-width: 250px;
+    margin-left: -70px;
+  }
+  #mesg {
+    margin-top: -90px;
+    margin-right: -50px;
+  }
+  #profiles {
+    margin-right: -70px;
+  }
+  #mouseport {
+    margin-top: 0px;
+    margin-left: -100px;
+  }
+  #cubeport {
+    margin-top: -20px;
+    margin-right: -150px;
+  }
+  #keyboardprotfolio {
+    min-width: 800px;
+  }
+  #leftgo {
+    min-width: 600px;
+    margin-right: -300px;
+  }
+  #leftback {
+    min-width: 1100px;
+    margin-left: -300px;
+  }
+  #leftgoo {
+    min-width: 1100px;
+    margin-right: -300px;
+  }
+  #leftbackk {
+    margin-left: -300px;
+    min-width: 600px;
+  }
+  #clientyellowball {
+    margin-top: -50px;
+    margin-left: -10px;
+  }
+  #clientcube {
+    margin-top: 180px;
+    margin-right: -400px;
+  }
+  #clientline {
+    margin-top: 50px;
+    margin-left: 100px;
+  }
+  #designyellowball {
+    margin-top: -40px;
+    margin-right: -70px;
+  }
+  #designcube {
+    margin-top: -70px;
+    margin-left: 50px;
+  }
+  #portchatbtn{
+    margin-top: -150px;
+  }
+}
+
+#globalmain{
+  margin-top: -700px;
+}
+#worldglobe{
+  min-width: 300px;
+  min-height: 300px;
+}
