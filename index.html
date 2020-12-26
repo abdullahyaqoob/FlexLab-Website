@@ -4,45 +4,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
-	    <meta name="description" content="FlexLab is an award-winning software incubator that
+    <meta name="description" content="FlexLab is an award-winning software incubator that
     transforms a dream by strategizing, developing, and catalyzing growth.">
     <meta name="keywords" content="flexlab, website development, full stack, UI development, software development">
     <meta name="author" content="Haider Yaqoob">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="HandheldFriendly" content="true">
     <!-- Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+    <script>
+        (function(i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function() {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-ga('create', 'UA-XXXXX-Y', 'auto');
-ga('send', 'pageview');
-</script>
-	
-	
-<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-XXXXX-Y', 'auto');
-ga('send', 'pageview');
-</script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
-	
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    </script>
 
-  gtag('config', 'GA_MEASUREMENT_ID');
-</script>
-<!-- End Google Analytics -->
+
+    <script>
+        window.ga = window.ga || function() {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+    <!-- End Google Analytics -->
     <!-- Bootstrap Styles-->
     <link type="style" rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	<title>Flex-Lab</title>
+    <title>Flex-Lab</title>
     <meta name="google-site-verification" content="uXNF-BMbJ3qbmbogEThWXe6OZyK82qkRz2JtMiGgQM8" />
 
     <!-- Scrolling Styles-->
@@ -279,7 +292,8 @@ ga('send', 'pageview');
                             <div class="container lets-chats">
                                 <div class="text-center">
                                     <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank" rel="nofollow" class="web-btn web-btn--radius text-white bg-purple chat-btun" id="learnmorebtn">
-					    Learn More</a>
+                                        <span class="learn-more-text">Learn More</span>
+                                    </a>
                                 </div>
                             </div>
                             <div class="shapes-container">
@@ -364,7 +378,7 @@ ga('send', 'pageview');
                             </div>
                             <div class="container lets-chat">
                                 <div class="text-center" id="secretbtn">
-                                    <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank" rel="nofollow" class="web-btn web-btn--radius text-white bg-purple btn-medium">Let's
+                                    <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank" rel="nofollow" class="web-btn web-btn--radius text-white bg-purple btn-medium" id="sec-btn-end">Let's
 										Chat</a>
                                 </div>
                             </div>
@@ -380,19 +394,21 @@ ga('send', 'pageview');
                 <!-- ============================================  Download Section ================================================ -->
                 <section id="download" class="overflow-hidden vertically-align-container">
                     <div class="vertically-align">
-                        <div class="container" id="downloadsheadings">
+                        <div class="container">
                             <!-- shapes -->
-                            <div class="shapes-container">
-                                <div class="equal-sides">
-                                    <div class="shape circle-1" id="downloadcircle"></div>
+                            <!-- <br> -->
+                            <div class="top-sec-down">
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <div class="shape circle-1" id="downloadcircle"></div>
+                                    </div>
+                                </div>
+                                <div class="container-center custom-height text-center">
+                                    <p class="text-header-medium">Download<br> Our Startup guides
+                                    </p>
+                                    <p class="sub-title mt-4">Get a copy of our best curated guides</p>
                                 </div>
                             </div>
-                            <div class="container-center custom-height text-center">
-                                <p class="text-header-medium">Download<br> Our Startup guides
-                                </p>
-                                <p class="sub-title mt-4">Get a copy of our best curated guides</p>
-                            </div>
-                            <br><br>
                             <div class="row mt-5" id="cardsofdownloads">
                                 <div class="col-md-4">
                                     <div class="trans-delay-1 grid-blue-container">
@@ -459,7 +475,7 @@ ga('send', 'pageview');
                             <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank" rel="nofollow" class="web-btn web-btn--radius text-white bg-purple chat-button">Let's
 								Chat</a>
                         </div>
-                    </div><br>
+                    </div>
                     <div class="container">
                         <div class="row contact-details">
                             <div class="col-6 col-md-6 float-right">
