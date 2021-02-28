@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="description" content="FlexLab. We Make Ideas,. FlexLab is an award-winning software incubator that
+    transforms a dream by strategizing, developing, and catalyzing growth.">
+    <meta name="keywords" content="flexlab, website development, full stack, UI development, software development">
+    <meta name="author" content="Haider Yaqoob">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="HandheldFriendly" content="true">
+    <!-- Google Analytics -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+
+    <script>
+        window.ga = window.ga || function () {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+        ga('create', 'UA-XXXXX-Y', 'auto');
+        ga('send', 'pageview');
+    </script>
+    <script async src='https://www.google-analytics.com/analytics.js'></script>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+    <!-- End Google Analytics -->
+    <!-- Bootstrap Styles-->
+    <link type="style" rel="stylesheet" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Flex-Lab</title>
+    <meta name="google-site-verification" content="uXNF-BMbJ3qbmbogEThWXe6OZyK82qkRz2JtMiGgQM8" />
+    <!-- 	google-site-verification=uXNF-BMbJ3qbmbogEThWXe6OZyK82qkRz2JtMiGgQM8 -->
+
+    <!-- Scrolling Styles-->
+    <link rel="stylesheet" type="text/css" href="./scroll/jquery.pagepiling.css" media="screen and (min-width: 500px)">
+    <link rel="stylesheet" type="text/css" href="./scroll/style.css" />
+    <link rel="icon" href="./img/man-rocket.png" type="image/icon type">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"
+        media="screen and (min-width: 500px)"></script>
+    </script>
+    <script type="text/javascript" src="./scroll/scrolling.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#pagepiling').pagepiling({
+                sectionsColor: ['#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff'],
+                navigation: {
+                    'position': 'right',
+
+                    'tooltips': ['Home', 'Our Process', 'Client Life Cycle', 'What we do', 'Our Secret', 'Guides', 'Contact Us']
+                    // 'tooltips': ['Home', 'Our Process', 'Client Life Cycle', 'Business Legit', 'Market', 'Funding', 'User Experience', 'Good Code', 'Competitors', 'Launching', 'What we do', 'Our Secret', 'Guides', 'Global', 'Contact Us']
+                }
+            });
+        });
+    </script>
+
+    <!-- Custom Styles-->
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/styles.css" />
+    <link rel="stylesheet" href="./css/typography.css" />
+    <link rel="stylesheet" href="./css/home.css" />
+</head>
+
+<body>
+    <section id="pinlling">
+
+        <div class="spinner-wrapper">
+            <div class="spinner"></div>
+        </div>
+
+        <div id="pagepiling" class="fade-in">
+
+            <!-- START SECTION -->
+            <div class="section" id="section1" style="overflow: hidden;">
+                <section id="hero" class="hero">
+                    <!--header -->
+                    <header id="pushleft">
+                        <div class="container web-container">
+                            <div class="row">
+                                <!-- logo -->
+                                <a href="./index.html" rel="nofollow noopener" class="logo col-md-2">
+                                    <img src="./img/flexlablogo/logo4-removebg.png" alt="logo" />
+                                </a>
+
+                                <!-- navigation -->
+                                <nav class="navbar col-md-6 col-xl-5 col-sm-6">
+                                    <ul class="nav">
+                                        <li class="nav-item active">
+                                            <a href="./index.html" rel="nofollow noopener">Home</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="./clients.html" rel="nofollow noopener">Clients</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="./clientslifecycle.html" rel="nofollow noopener">Process</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="./services.html" rel="nofollow noopener">Services</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="./portfolio.html" rel="nofollow noopener">Portfolio</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a href="./contact.html" rel="nofollow noopener">contact<span
+                                                    style="color: aliceblue;">.</span>Us </a>
+                                        </li>
+                                    </ul>
+                                </nav>
+                                <div class="drop-down dn">12321</div>
+                                <div class="connect col-md-2 col-sm-6" id="chat-bttun">
+                                    <div id="pushright">
+                                        <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt"
+                                            target="_blank" rel="nofollow"
+                                            class="web-btn btn-small web-btn--radius text-white bg-purple">Lets
+                                            Work Together</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                    <!-- sub-header -->
+                    <!--<div class="vertically-align-container">
+					<div class="vertically-align">
+
+						<div class="container">-->
+                    <div class="hero-content" id="homespag">
+                        <div class="container">
+                            <div class="row" id="pushleftbottom">
+                                <!-- left side -->
+                                <div class="headline col-md-12 pl-0 mr-auto tax-shapes">
+                                    <!-- shapes -->
+                                    <div class="shapes-container">
+                                        <div class="equal-sides">
+                                            <img src="./img/ball.png" id="S1yellowball" class="figure ball"
+                                                alt="ball" />
+                                            <img src="./img/homepage/cube-white.png" id="cubepic"
+                                                class="figure cube-white" alt="cube white" />
+                                            <img src="./img/flower-pot.png" class="figure flower-pot" id="flowerpic"
+                                                alt="flower pot" />
+                                            <br><br>
+                                            <img src="./img/bg.png" class="figure bg" id="backgroundd" alt="bg" />
+                                            <img src="./img/mouse.png" class="figure mouse" id="mousepic" alt="mouse" />
+                                            <img src="./img/man-rocket.png" class="figure man-rocket" id="rocketman"
+                                                alt="man rocket" />
+                                            <div class="shape circle-1" id="circle-top1"></div>
+                                        </div>
+                                    </div>
+                                    <div class="hero-text" id="heorocontent">
+                                        <h1 class="mini-heading" id="herominiheading">FlexLab</h1>
+                                        <p class="text-header-medium" id="heroheading">We Make Ideas, <br />
+                                            <span class="typewrite" data-period="4000"
+                                                data-type='[ "Known!", "Creative!", "Excellent!" ]'>
+                                                <span class="wrap underlined full">Known!</span>
+                                            </span>
+                                        </p>
+                                    </div>
+                                </div>
+                                <!-- right side -->
+                            </div>
+                        </div>
+
+
+                        <!-- ============================================ Awards Section ================================================ -->
+                        <section>
+                            <div>
+                                <div class="container-center" id="award-section">
+                                    <p class="sub-title text-center" id="award-title">
+                                        Flexlab is an award-winning software incubator that <br> transforms a dream by
+                                        strategizing, developing, and catalyzing growth.
+                                    </p>
+                                    <div id="award-logos">
+                                        <div>
+                                            <img src="./img/awards.png" id="firstlogos" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    <!--
+						</div>
+					</div>
+				</div>-->
+
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+            <!-- START SECTION -->
+            <div class="section" id="section2">
+                <!-- ============================================ Light Bulb Section ================================================ -->
+                <section id="light-bulb" class="overflow-hidden vertically-align-container">
+                    <div class="vertically-align" id="lightbulbs">
+                        <div class="container" id="gaptopof">
+                            <div class="container-center" id="light-blb-all-content">
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <div class="shape circle-1" id="circlelight-2"></div>
+                                    </div>
+                                </div>
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <img src="./img/string.png" class="figure string" alt="string" />
+                                    </div>
+                                </div>
+                                <div id="S2flowerpicc">
+                                    <img src="./img/homepage/flower.png" id="S2flowerpic" class="flower" alt="flower" />
+                                </div>
+                                <div id="S2lamppicc">
+                                    <img src="./img/homepage/lamp.png" id="S2lamppic" class="lamp" alt="lamp" />
+                                </div>
+                                <div class="text-center">
+                                    <img src="./img/homepage/bucket.png" id="S2bucketpic" class="bucket" alt="bucket" />
+                                    <img src="./img/homepage/cloud.png" id="hearts" class="bucket" alt="bucket" />
+                                    <img src="./img/homepage/heart.png" id="heart" class="bucket" alt="bucket" />
+                                </div>
+                                <br><br>
+                                <br><br>
+                                <h1 class="mini-heading text-center" id="lightminiheading">We Are The Studio Aimed At
+                                </h1>
+                                <p class="text-header-medium text-center" id="lightheading">
+                                    The Light Bulb<br><span id="gapinlights" class="underlined excess">Moments</span>
+                                </p>
+                                <p class="sub-title text-center pt-5" id="lightsubheading">
+                                    A great app idea can come from anywhere …but not everyone<br> can take it to unicorn
+                                    levels
+                                </p>
+
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+            <!-- START SECTION -->
+            <div class="section" id="section3">
+                <!-- ============================================ Business Plan Section ================================================ -->
+                <section id="business_plan" class="overflow-hidden vertically-align-container">
+                    <div class="vertically-align">
+                        <div class="container" id="S3topcontent">
+                            <div class="clientsText">
+                                <p class="text-header-medium text-center" id="clientsheading">
+                                    Our
+                                    <span class="underlined">Client life</span> Cycle
+                                </p>
+                                <p class="sub-title text-center pt-4" id="S3turnou">
+                                    The core part of the Flexlab strategy underpinnings is designed around an
+                                    intellectual, globally-oriented knowledge trust that crosses the subsection of
+                                    numerous industries and cutting-edge technologies and platforms.
+                                </p>
+                            </div>
+                            <br>
+                            <div class="shapes-container" id="S3buisnesspic">
+                                <div class="equal-sides" id="lifecycle-all-content">
+                                    <img src="./img/homepage/curvlines.png" id="S3line" class="hand-right"
+                                        alt="hand right" />
+                                    <img src="./img/homepage/glossy-green.png" id="glossygreeen" class="business-scenes"
+                                        alt="business scene" />
+                                    <img src="./img/homepage/glossy.png" id="glossypink" class="business-scene"
+                                        alt="business scene" />
+                                    <div id="yelowplayball">
+                                        <img src="./img/homepage/yellowCubeplay.png" id="S3cubeplay" class="cursor"
+                                            alt="cursor" />
+                                    </div>
+                                    <div id="greencuber">
+                                        <img src="./img/homepage/green-cube.png" id="S3greencube" class="business-card"
+                                            alt="business card" />
+                                        <img src="./img/homepage/ball-blue.png" id="S3blueball" class="business-card"
+                                            alt="business card" />
+                                    </div>
+                                    <div id="cubedwnyellow">
+                                        <img src="./img/homepage/cube-downyellow.png" id="S3cube" class="cursor"
+                                            alt="cursor" />
+                                    </div>
+                                    <!-- <div id="blueballS3">
+										<img src="./img/homepage/ball-blue.png" id="S3blueball" class="business-card"
+											alt="business card" /></div> -->
+                                    <img src="./img/homepage/keyboard.png" id="S3keyboard" class="hand-right"
+                                        alt="hand right" />
+                                    <img src="./img/homepage/shadow.png" id="S3shadow" class="hand-right"
+                                        alt="hand right" />
+
+
+                                </div>
+                            </div>
+                            <div class="clientlefe-bottom">
+                                <div class="container lets-chats">
+                                    <div class="text-center">
+                                        <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt"
+                                            target="_blank" rel="nofollow"
+                                            class="web-btn web-btn--radius text-white bg-purple chat-btun"
+                                            id="learnmorebtn">
+                                            <span class="learn-more-text">Learn More</span>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <div class="shape circle-1"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+            <!-- START SECTION -->
+            <div class="section" id="section11">
+                <!-- ============================================ What We Do Section ================================================ -->
+                <section id="what_we_do" class="overflow-hidden vertically-align-container">
+                    <div class="vertically-align">
+                        <div class="container">
+                            <div id="S11Text">
+                                <p class="text-header-medium text-center">
+                                    So, What Do We Do, <br><span class="underlined">Exactly?</span>
+                                </p>
+                                <br>
+                                <p class="sub-title text-center pt-4">
+                                    When clients utilize our full suite of services, it means we take your idea from the
+                                    embryonic stage through the design and build process and then through launch,
+                                    growth, and iteration.
+                                </p>
+                            </div>
+                            <br>
+                            <br>
+                            <br>
+                            <div class="shapes-container" id="S11Pics">
+                                <div class="equal-sides text-center">
+                                    <img src="./img/homepage/mask.png" id="exacmask" class="figure mask" alt="mask" />
+                                    <img src="./img/homepage/keys.png" id="exackeys" class="figure keys" alt="keys" />
+                                    <img src="./img/homepage/cup.png" id="exaccup" class="figure cup" alt="cup" />
+                                    <img src="./img/homepage/cubes.png" id="S11cube" class="figure cubes" alt="cubes" />
+                                    <img src="./img/homepage/folder.png" id="exacfolder" class="folder" alt="folder" />
+                                    <img src="./img/homepage/curve-line-4.svg" id="exacline" class="figure curve-line-4"
+                                        alt="curve line" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+            <!-- START SECTION -->
+            <div class="section" id="section12">
+                <!-- ============================================ Our Secret Section ================================================ -->
+                <section id="our_secret" class="overflow-hidden vertically-align-container">
+                    <div class="vertically-align">
+                        <div class="container">
+                            <p class="text-header-medium text-center">
+                                <span class="underlined">What’s Our Secret?</span>
+                            </p>
+                            <p class="sub-title text-center pt-4">
+                                There are really only two things that make Flexlab special: our process and our team.
+                            </p><br>
+                            <p class="sub-title text-center" id="secretsubheading">
+                                Our process is our playbook for client success. It’s the infrastructure that allows our
+                                team to create the great things that drive results for our clients.
+                            </p>
+
+                            <br><br>
+                            <br><br>
+                            <div class="shapes-container">
+                                <div class="equal-sides">
+                                    <div class="shape circle-1" id="secretcircle-1"></div>
+                                    <div class="shape circle-2" id="secretcircle-2"></div>
+                                    <div class="shape circle-3" id="secretcircle-3"></div>
+                                </div>
+                            </div>
+                            <div class="shapes-container" id="secretimages">
+                                <div class="equal-sides text-center">
+                                    <img src="./img/homepage/bucket-shadow.png" id="S12bucket"
+                                        class="figure bucket-shadow" alt="bucket shadow" />
+                                    <img src="./img/homepage/ball-yellow.png" id="S12yellowball"
+                                        class="figure ball-yellow" alt="ball yellow" />
+                                    <img src="./img/homepage/cube-single.png" id="S12cube" class="figure cube-single"
+                                        alt="cube single" />
+                                    <img src="./img/homepage/code.png" id="S12code" class="figure code" alt="code" />
+                                    <img src="./img/homepage/man-center.png" id="S12man" class="man-center"
+                                        alt="man center" />
+                                    <img src="./img/homepage/curve-line.svg" id="S12line" class="figure curve-line"
+                                        alt="curve line" />
+                                </div>
+                            </div>
+                            <div class="container lets-chat">
+                                <div class="text-center" id="secretbtn">
+                                    <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt"
+                                        target="_blank" rel="nofollow"
+                                        class="web-btn web-btn--radius text-white bg-purple btn-medium"
+                                        id="sec-btn-end">Let's
+                                        Chat</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+
+            <!-- START SECTION -->
+            <div class="section" id="section13">
+                <!-- ============================================  Download Section ================================================ -->
+                <section id="download" class="overflow-hidden vertically-align-container">
+                    <div class="vertically-align">
+                        <div class="container">
+                            <!-- shapes -->
+                            <!-- <br> -->
+                            <div class="top-sec-down">
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <div class="shape circle-1" id="downloadcircle"></div>
+                                    </div>
+                                </div>
+                                <div class="container-center custom-height text-center">
+                                    <p class="text-header-medium">Download<br> Our Startup guides
+                                    </p>
+                                    <p class="sub-title mt-4">Get a copy of our best curated guides</p>
+                                </div>
+                            </div>
+                            <div class="row mt-5" id="cardsofdownloads">
+                                <div class="col-md-4">
+                                    <div class="trans-delay-1 grid-blue-container">
+                                        <div class="grid-blue vertically-align">
+                                            <div>
+                                                <h4 class="text-white mb-3">Fundraising For Startups:</h4>
+                                                <h4 class="text-white mb-3">Raising Your First Round of Funding</h4>
+                                                <a target="_blank" href="./Books/A Brutally Honest Guide for Creating a Startup Flexlab New.pdf"
+                                                    class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="trans-delay-2 grid-orange-container mt-5">
+                                        <div class="grid-orange vertically-align">
+                                            <div>
+                                                <h4 class="text-white mb-3">A Guide to Tax Returns for:</h4>
+                                                <h4 class="text-white mb-3">Seed Stage Startups</h4>
+                                                <a target="_blank" href="./Books/A Brutally Honest Guide for Creating a Startup Flexlab New.pdf"
+                                                    class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 pt-5">
+                                    <div class="trans-delay-3 grid-green-container mt-5">
+                                        <div class="grid-green vertically-align">
+                                            <div>
+                                                <h4 class="text-white mb-3">What to Know About:</h4>
+                                                <h4 class="text-white mb-3">Raising Venture Capital Funding</h4>
+                                                <a target="_blank" href="./Books/A Brutally Honest Guide for Creating a Startup Flexlab New.pdf"
+                                                    class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+            <!-- START SECTION -->
+            <div class="section" id="section15">
+                <!-- ============================================ Footer Section ================================================ -->
+                <section id="footer" class="overflow-hidden">
+                    <div class="container" id="footers">
+                        <div class="shapes-container">
+                            <div class="equal-sides">
+                                <img src="./img/bubble-message.png" class="figure bubble-message"
+                                    alt="bubble-message" />
+                            </div>
+                        </div>
+                        <p class="text-header-medium text-center">
+                            <span class="underlined">Let’s Work Together</span>
+                        </p>
+                    </div>
+                    <div class="container">
+                        <div id="worldglobe">
+                            <div class="text-center">
+                                <img src="./img/clients/globewithpoints.png" id="globes" class="rotate globe"
+                                    alt="globe" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container lets-chat">
+                        <div class="text-center">
+                            <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank"
+                                rel="nofollow" class="web-btn web-btn--radius text-white bg-purple chat-button">Let's
+                                Chat</a>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row contact-details">
+                            <div class="col-6 col-md-6 float-right">
+                                <a href="mailto:hello@convrtx.com" target="_top"><img src="./img/icon-email.png" />
+                                    hello@flexlab.io
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-6 float-left">
+                                <a href="callto:+3366543980"><img src="./img/icon-phone-message.png" /> +92 3115 349167
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container" id="socialapps">
+                        <div class="row social-details">
+                            <div class="col-6 col-md-3">
+                                <a href="https://web.facebook.com/TheFlexLab/" target="_blank">
+                                    <div class="social-box">
+                                        <i class="fa fa-facebook-square"></i><span>Facebook</span>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a href="https://www.instagram.com/the.flex.lab/" target="_blank">
+                                    <div class="social-box">
+                                    <i class="fa fa-instagram"></i> <span>Instagram</span>
+                                </div>
+                                </a>
+                            </div>
+                            <!-- <div class="col-6 col-md-3">
+								<div class="social-box active">
+									<i class="fa fa-instagram"></i> <span>Instagram</span>
+								</div>
+							</div> -->
+                            <div class="col-6 col-md-3">
+                                <a href="https://twitter.com/Flexlab2" target="_blank">
+                                    <div class="social-box">
+                                    <i class="fa fa-twitter-square"></i> <span>Twitter</span>
+                                </div>
+                                </a>
+                            </div>
+                            <div class="col-6 col-md-3">
+                                <a href="https://www.linkedin.com/in/haider-yaqoob-065082173/" target="_blank">
+                                    <div class="social-box">
+                                    <i class="fa fa-linkedin-square"></i> <span>LinkedIn</span>
+                                </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container">
+                        <div class="row credit-box">
+                            <span id="copyrights" class="credit">Copyright © 2020 FlexLab. All Rights Reserved.</span>
+                        </div>
+                    </div>
+                </section>
+            </div>
+            <!-- END SECTION -->
+
+
+        </div>
+    </section>
+
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="./scripts/main.js"></script>
+
+    <script>
+        var TxtType = function (el, toRotate, period) {
+            this.toRotate = toRotate;
+            this.el = el;
+            this.loopNum = 0;
+            this.period = parseInt(period, 10) || 2000;
+            this.txt = '';
+            this.tick();
+            this.isDeleting = false;
+        };
+        TxtType.prototype.tick = function () {
+            var i = this.loopNum % this.toRotate.length;
+            var fullTxt = this.toRotate[i];
+            if (this.isDeleting) {
+                this.txt = fullTxt.substring(0, this.txt.length - 1);
+            } else {
+                this.txt = fullTxt.substring(0, this.txt.length + 1);
+            }
+            this.el.innerHTML = '<span class="wrap underlined full">' + this.txt + '</span>';
+            var that = this;
+            var delta = 200 - Math.random() * 100;
+            if (this.isDeleting) {
+                delta /= 2;
+            }
+            if (!this.isDeleting && this.txt === fullTxt) {
+                delta = this.period;
+                this.isDeleting = true;
+            } else if (this.isDeleting && this.txt === '') {
+                this.isDeleting = false;
+                this.loopNum++;
+                delta = 500;
+            }
+            setTimeout(function () {
+                that.tick();
+            }, delta);
+        };
+        window.onload = function () {
+            var elements = document.getElementsByClassName('typewrite');
+            for (var i = 0; i < elements.length; i++) {
+                var toRotate = elements[i].getAttribute('data-type');
+                var period = elements[i].getAttribute('data-period');
+                if (toRotate) {
+                    new TxtType(elements[i], JSON.parse(toRotate), period);
+                }
+            }
+            var css = document.createElement("style");
+            css.type = "text/css";
+            css.innerHTML = ".typewrite > .wrap { border-right: 0.08em solid #7d8bc1}";
+            document.body.appendChild(css);
+        };
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            preloaderFadeOutTime = 500;
+
+            function hidePreloader() {
+                var preloader = $('.spinner-wrapper');
+                preloader.fadeOut(preloaderFadeOutTime);
+            }
+            hidePreloader();
+        });
+    </script>
+
+
+    <script>
+        $(document).mousemove(function (e) {
+            $('.mouse-follow').offset({
+                left: e.pageX,
+                top: e.pageY + 20
+            });
+        });
+    </script>
+    <!-- ============================================================================================ -->
+    <!--------------------------------Mobile Version----------------------------------------->
+    <!-- ============================================================================================ -->
+    <section id="mobileversion">
+        <!-- START SECTION -->
+        <div>
+            <section id="herorr" class="hero">
+                <!--header -->
+                <header>
+                    <div class="container web-container">
+                        <div class="row">
+                            <!-- logo -->
+                            <a href="./index.html" rel="nofollow noopener" class="logo col-md-2">
+                                <img src="./img/flexlablogo/logo 4 only logo.png" class="mobile-logo" alt="logo" />
+                                <h5 class="mini-heading"
+                                    style="margin-left: 180px;font-size: 35px !important;margin-top: 10px;color: rgb(88, 88, 206);">
+                                    Flexlab
+                                </h5>
+                            </a>
+                            <!-- navigation -->
+                            <nav class="navbar col-md-6 col-xl-5 col-sm-6" id="navigations">
+                                <ul class="nav">
+                                    <li class="nav-item active">
+                                        <a href="./" rel="nofollow noopener">Home</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="./clients.html" rel="nofollow noopener">Clients</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="./services.html" rel="nofollow noopener">Services</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="./portfolio.html" rel="nofollow noopener">Portfolio</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a href="./contact.html" rel="nofollow noopener">Contact</a>
+                                    </li>
+                                </ul>
+                            </nav>
+
+                        </div>
+                    </div>
+                </header>
+                <div class="hero-content">
+                    <div class="container">
+                        <div class="row">
+                            <!-- left side -->
+                            <div class="headline col-md-12 pl-0 mr-auto tax-shapes">
+
+                                <div class="hero-text" id="mobileHmainheading">
+                                    <br>
+                                    <p class="text-header-medium">We Make Ideas, <br />
+                                        <span class="typewrite" data-period="4000"
+                                            data-type='[ "Known!", "Creative!", "Excellent!" ]'>
+                                            <span class="wrap underlined full">Known!</span>
+                                        </span>
+                                    </p>
+                                </div>
+                                <!-- shapes -->
+                                <div class="shapes-container">
+                                    <div class="equal-sides">
+                                        <img src="./img/ball.png" id="MS1yellowball" class="figure ball" alt="ball" />
+                                        <img src="./img/homepage/cube-white.png" id="Mcubepic" class="figure cube-white"
+                                            alt="cube white" />
+                                        <img src="./img/flower-pot.png" class="figure flower-pot" id="Mflowerpic"
+                                            alt="flower pot" />
+                                        <img src="./img/mouse.png" class="figure flower-pot" id="mousepics"
+                                            alt="flower pot" />
+                                        <img src="./img/bg.png" class="figure bg" id="Mbackground" alt="bg" />
+                                        <img src="./img/man-rocket.png" class="figure man-rocket" id="Mrocketman"
+                                            alt="man rocket" />
+                                        <div class="shape circle-1" id="mobilecircleone"></div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- right side -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ============================================ Awards Section ================================================ -->
+                <section id="awards" class="overflow-hidden">
+                    <div class="container">
+                        <div class="container-center"><br>
+                            <p class="sub-title text-center" id="award-titl">
+                                Flex-Lab is an award-winning software <br> <br> incubator that transforms a dream <br>
+                                <br> by strategizing,developing,<br><br> and catalyzing growth.
+                            </p>
+                            <div class="row" id="logos">
+                                <div class="col-md-7 offset-md-2">
+                                    <img src="./img/awards.png" id="awardsimages" class="img-responsive" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+
+            </section>
+
+        </div>
+        <!-- END SECTION -->
+
+        <!-- START SECTION -->
+        <div class="secion" id="section2">
+            <!-- ============================================ Light Bulb Section ================================================ -->
+            <section id="light-bulb" class="verflow-hidden vertically-align-container">
+                <div class="vertically-align">
+                    <div class="container">
+                        <div class="container-center">
+                            <div class="shapes-container">
+                                <div class="equal-sides">
+                                    <div class="shape circle-1" id="Mcircle-2"></div>
+                                </div>
+                            </div>
+                            <div class="shapes-container">
+                                <div class="equal-sides">
+                                    <img src="./img/string.png" class="figure string" alt="string" />
+                                </div>
+                            </div>
+                            <img src="./img/homepage/lamp.png" id="S2lamppics" class="lamp" alt="lamp" />
+                            <div class="text-center">
+                                <div id="Mbucket">
+                                    <img src="./img/homepage/bucket.png" id="Mbucket" height="110px" alt="bucket" />
+                                </div>
+                                <div class="shape circle-1" id="Mcircle-2"></div>
+                                <img src="./img/homepage/heart.png" id="Mheart" class="bucket" alt="bucket" />
+                            </div>
+                            <br><br>
+                            <br><br>
+                            <h1 class="mini-heading text-center">We Are The Studio Aimed At</h1>
+                            <p class="text-header-medium text-center">
+                                The Light Bulb<br><span class="underlined excess">Moments</span>
+                            </p>
+                            <p class="sub-title text-center pt-5">
+                                A great app idea can come<br> from anywhere but not everyone<br> can take it to unicorn
+                                levels
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- END SECTION -->
+
+        <!-- START SECTION -->
+        <div class="secion" id="section3">
+            <!-- ============================================ Business Plan Section ================================================ -->
+            <section id="MbusinessPlain" class="overflow-hidden vertically-align-container">
+                <div class="vertically-align">
+                    <div class="container" id="Stopcontent">
+                        <p class="text-header-medium text-center"><br><br><br><br><br><br><br><br><br> Our Client <br>
+                            <span class="underlined">life Cycle</span>
+                        </p>
+                        <p class="sub-title text-center pt-4" id="S3turnouts">
+                            The core part of the Flexlab strategy underpinnings is designed around an intellectual,
+                            globally-oriented knowledge trust that crosses the subsection of numerous industries and
+                            cutting-edge technologies and platforms.
+                        </p>
+                        <br>
+                        <div class="shapes-container" id="S3buisnesspic">
+                            <div class="equal-sides">
+                                <img src="./img/homepage/curvlines.png" id="S3line" class="hand-right"
+                                    alt="hand right" />
+                                <div id="glossyies">
+                                    <img src="./img/homepage/glossy-green.png" id="Mgossygreen" class="business-scenes"
+                                        alt="business scene" />
+                                    <img src="./img/homepage/glossy.png" id="Mgossypink" class="business-scene"
+                                        alt="business scene" />
+                                </div>
+                                <img src="./img/homepage/yellowCubeplay.png" id="MS3cubeplay" class="cursor"
+                                    alt="cursor" />
+                                <img src="./img/homepage/green-cube.png" id="MS3greencube" class="business-card"
+                                    alt="business card" />
+                                <img src="./img/homepage/cube-downyellow.png" id="MS3cube" class="cursor"
+                                    alt="cursor" />
+                                <img src="./img/homepage/ball-blue.png" id="MS3blueball" class="business-card"
+                                    alt="business card" />
+                                <img src="./img/homepage/keyboard.png" id="MS3keyboard" class="hand-right"
+                                    alt="hand right" />
+                                <img src="./img/homepage/shadow.png" id="MS3shadow" class="hand-right"
+                                    alt="hand right" />
+                            </div>
+                        </div><br>
+                        <p id="gapofchat"></p>
+                        <div class="text-center">
+                            <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank"
+                                rel="nofollow" class="web-btn web-btn--radius text-white bg-purple btn-medium"
+                                id="MchatBtn">Let's
+                                Chat</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- END SECTION -->
+
+        <!-- START SECTION -->
+        <div class="secion" id="section11">
+            <!-- ============================================ What We Do Section ================================================ -->
+            <section id="what-we-do" class="overflow-hidden vertically-align-container">
+                <div class="vertically-align">
+                    <div class="container">
+                        <p class="text-header-medium text-center">
+                            So, What Do We Do, <br><span class="underlined">Exactly?</span>
+                        </p>
+
+                        <p class="sub-title text-center pt-4">
+                            When clients utilize our full suite of services, it means we take your idea from the
+                            embryonic stage through the design and build process and then through launch, growth, and
+                            iteration.
+                        </p>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="shapes-container" id="exactmain">
+                            <div class="equal-sides text-center">
+                                <img src="./img/homepage/mask.png" id="whatdo-mask" class="figure mask" alt="mask" />
+                                <img src="./img/homepage/keys.png" id="whatdo-key" class="figure keys" alt="keys" />
+                                <img src="./img/homepage/cup.png" id="whatdo-cup" class="figure cup" alt="cup" />
+                                <img src="./img/homepage/cubes.png" id="S11cube" class="figure cubes" alt="cubes" />
+                                <img src="./img/homepage/folder.png" id="whatdo-folder" class="folder" alt="folder" />
+                                <br>
+                            </div>
+                        </div>
+
+                        <p class="sub-title text-center pt-4">
+                            We figure out ROI and what a roadmap would look like; we flesh out some concepts. And then
+                            we execute.
+                            <br><br><br><br><br><br><br>
+                        </p>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- END SECTION -->
+
+        <!-- START SECTION -->
+        <div class="secion" id="section12">
+            <!-- ============================================ Our Secret Section ================================================ -->
+            <section id="our-secret" class="overflow-hidden vertically-align-container">
+                <div class="vertically-align">
+                    <div class="container">
+                        <p class="text-header-medium text-center">
+                            <span class="underlined">What’s Our Secret?</span>
+                        </p>
+                        <p class="sub-title text-center pt-4">
+                            There are really only two things that make Flexlab special: our process and <br> our team.
+                        </p>
+
+                        <br><br><br>
+                        <div class="shapes-container">
+
+                        </div>
+                        <div class="shapes-container">
+                            <div class="equal-sides text-center">
+                                <img src="./img/homepage/secretman.png" id="secretmans" class="figure bucket-shadow"
+                                    alt="bucket shadow" />
+                            </div>
+                        </div>
+                        <div class="container lets-chat">
+                            <p class="sub-title text-center" style="margin-top: -60px;">
+                                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> Our
+                                people come from startups, not agencies. Instead of obsessing over awards, they’ve
+                                focused on satisfying customers and users. They’re
+                                ex-CEOs, ex-CTOs, ex-CMOs—people who know how to win in the marketplace.
+                            </p><br><br><br><br><br><br><br>
+                            <div class="text-center">
+                                <a href="https://www.tidio.com/talk/ycqizohkxyopmzryeywsyamv2m98w1gt" target="_blank"
+                                    rel="nofollow" class="web-btn web-btn--radius text-white bg-purple btn-medium"
+                                    id="MchatBtn">Let's
+                                    Chat</a>
+                            </div>
+                            <p style="margin-bottom: -140px;"></p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- END SECTION -->
+
+
+        <!-- START SECTION -->
+        <div class="secion" id="Mdownload">
+            <!-- ============================================  Download Section ================================================ -->
+            <section id="download" class="overflow-hidden vertically-align-container">
+                <div class="vertically-align">
+                    <div class="container">
+                        <!-- shapes -->
+                        <div class="shapes-container">
+                            <div class="equal-sides" id="Mdownloadcirclediv">
+                                <div class="shape circle-1" id="Mdownloadscircle"></div>
+                            </div>
+                        </div><br><br><br><br>
+                        <div class="container-center custom-height">
+                            <p class="text-header-medium text-center" style="font-size: 20px;">Download Our<br> Startup
+                                Guides
+                            </p>
+                            <p class="sub-title mt-4">Get a copy of our best curated guides ever</p>
+                        </div>
+                        <div class="row mt-5">
+                            <div class="col-md-4">
+                                <div class="trans-delay-1 grid-blue-container">
+                                    <div class="grid-blue vertically-align">
+                                        <div>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">
+                                                Fundraising For Startups:</h4>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">Raising
+                                                Your First Round of Funding</h4>
+                                            <a
+                                                class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="trans-delay-2 grid-orange-container mt-5">
+                                    <div class="grid-orange vertically-align">
+                                        <div>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">A Guide
+                                                to Tax Returns for:</h4>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">Seed
+                                                Stage Startups</h4>
+                                            <a
+                                                class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 pt-5">
+                                <div class="trans-delay-3 grid-green-container mt-5">
+                                    <div class="grid-green vertically-align">
+                                        <div>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">What to
+                                                Know About:</h4>
+                                            <h4 class="text-white mb-3"
+                                                style="font-weight: 700;font-size: 15px; line-height: 19.04px;">Raising
+                                                Venture Capital Funding</h4>
+                                            <a
+                                                class="web-btn web-btn--radius action-btn bg-white text-black full-width">Download</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <!-- END SECTION -->
+
+    </section>
+</body>
+
+</html>
