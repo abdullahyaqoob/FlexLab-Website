@@ -1882,8 +1882,10 @@ p {
         transform: rotate(359deg);
     }
 }
+
 /* mobile */
-.mobile-logo{
+
+.mobile-logo {
     position: relative;
     left: 30%;
     top: -10px !important;
@@ -1891,6 +1893,7 @@ p {
     max-width: 30px !important;
     height: 70px;
 }
+
 /* RESPONSIVE */
 
 @media (max-width: 576px) {
@@ -1898,9 +1901,11 @@ p {
         padding: 0 15vw;
     }
 }
-#award-section{
+
+#award-section {
     margin-top: -30px;
 }
+
 @media (max-width: 768px) {
     .logo img {
         margin: 0 auto;
@@ -2382,13 +2387,21 @@ margin-top: 160px; */
     /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
     /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
     @media only screen and (max-width: 1750px) {
-        .social-app{
-            max-width: 950px; margin-left: 60px;border-radius: 20px;max-height: 650px;margin-top: 50px !important;
+        .social-app {
+            max-width: 950px;
+            margin-left: 60px;
+            border-radius: 20px;
+            max-height: 650px;
+            margin-top: 50px !important;
         }
     }
     @media only screen and (max-width: 1639px) {
-        .social-app{
-            max-width: 750px; margin-left: 60px;border-radius: 20px;max-height: 530px;margin-top: 50px !important;
+        .social-app {
+            max-width: 750px;
+            margin-left: 60px;
+            border-radius: 20px;
+            max-height: 530px;
+            margin-top: 50px !important;
         }
         #clientsheading {
             font-size: 70px;
@@ -2849,7 +2862,7 @@ margin-top: 160px; */
     #lifeS3blueball {
         position: relative;
         top: -1950px !important;
-        left: 1100px !important;
+        left: 1100px;
         width: 150px;
     }
     #lifeyellowdowncube {
@@ -4328,7 +4341,7 @@ margin-top: 160px; */
         #lifeS3blueball {
             position: relative;
             top: -2000px;
-            left: 1050px;
+            left: 1100px;
         }
         #lifeyellowdowncube {
             position: relative;
@@ -5084,7 +5097,7 @@ margin-top: 160px; */
             top: 0px !important;
             left: -30px;
         }
-        #clientsheading{
+        #clientsheading {
             margin-bottom: -30px;
             font-size: 50px;
         }
