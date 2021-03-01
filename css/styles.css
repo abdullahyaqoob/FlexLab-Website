@@ -34,12 +34,12 @@ html {
 }
 
 #hero {
-    background-image: url(../img/homepage/istWalpaper.png);
-    height: 130%;
+    max-height: 1800px;
 }
 
 #hero {
-    max-height: 1800px;
+    background-image: url(../img/homepage/istWalpaper.png);
+    height: 130%;
 }
 
 #light-bulb {
@@ -2386,12 +2386,14 @@ margin-top: 160px; */
             max-width: 950px; margin-left: 60px;border-radius: 20px;max-height: 650px;margin-top: 50px !important;
         }
     }
-    @media only screen and (max-width: 1470px) {
+    @media only screen and (max-width: 1639px) {
         .social-app{
             max-width: 750px; margin-left: 60px;border-radius: 20px;max-height: 530px;margin-top: 50px !important;
         }
-        #S3topcontent{
-
+        #clientsheading {
+            font-size: 70px;
+            margin-bottom: -10px;
+            margin-left: 180px;
         }
     }
     #portfoliocircle {
@@ -2826,17 +2828,18 @@ margin-top: 160px; */
         margin-left: -130px;
     }
     #lifeglossy-green {
-        min-width: 700px;
-        min-height: 700px;
+        min-width: 500px;
+        min-height: 500px;
         position: relative;
-        top: 120px;
+        top: -70px;
+        left: 150px;
     }
     #lifeglossy-pink {
-        min-width: 700px;
-        min-height: 700px;
+        min-width: 500px;
+        min-height: 500px;
         position: relative;
-        top: -600px;
-        right: -350px;
+        top: -590px;
+        right: -495px;
     }
     #lifeS3cubepla {
         position: relative;
@@ -2845,13 +2848,15 @@ margin-top: 160px; */
     }
     #lifeS3blueball {
         position: relative;
-        top: -2000px;
-        left: 1300px;
+        top: -1950px !important;
+        left: 1100px !important;
+        width: 150px;
     }
     #lifeyellowdowncube {
         position: relative;
         top: -1600px;
         margin-left: -170px;
+        width: 250px;
     }
     #lifegreen-cube {
         position: relative;
@@ -2859,10 +2864,10 @@ margin-top: 160px; */
         margin-left: 830px;
     }
     #lifeS3keyboard {
-        max-width: 700px;
+        max-width: 500px;
         position: relative;
         top: -1500px;
-        margin-left: 500px;
+        margin-left: 600px;
     }
     #lifeS3shadow {
         right: -550px;
@@ -2870,12 +2875,12 @@ margin-top: 160px; */
         top: -1850px;
     }
     #lifeheadings {
-        font-size: 100px;
+        font-size: 90px;
     }
 }
 
 #clientspage {
-    background-image: url(../img/lifecyclebackground.png);
+    background-image: url(../img/homepage/istWalpaper.png);
 }
 
 @media only screen and (max-width: 2670px) {
@@ -4140,7 +4145,7 @@ margin-top: 160px; */
         #clientsheading {
             font-size: 70px;
             margin-bottom: -10px;
-            margin-left: 180px;
+            margin-left: 0px;
         }
         #S3buisnesspic {
             margin-left: -350px;
@@ -4328,7 +4333,7 @@ margin-top: 160px; */
         #lifeyellowdowncube {
             position: relative;
             top: -1600px;
-            margin-left: -10px;
+            margin-left: 100px;
         }
     }
     @media only screen and (max-width: 1808px) {
@@ -5133,10 +5138,6 @@ margin-top: 160px; */
             margin-left: 200px;
         }
         /*  */
-        #clientsheading {
-            position: relative;
-            right: 140px;
-        }
         #lifecycle-all-content {
             position: relative;
             right: 100px;
