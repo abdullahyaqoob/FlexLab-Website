@@ -2861,7 +2861,7 @@ margin-top: 160px; */
     }
     #lifeS3blueball {
         position: relative;
-        top: -1950px !important;
+        top: -1950px;
         left: 1100px;
         width: 150px;
     }
@@ -4340,7 +4340,7 @@ margin-top: 160px; */
         }
         #lifeS3blueball {
             position: relative;
-            top: -2000px;
+            top: -1850px;
             left: 1100px;
         }
         #lifeyellowdowncube {
