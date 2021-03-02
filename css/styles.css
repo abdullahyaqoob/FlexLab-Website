@@ -4245,7 +4245,7 @@ margin-top: 160px; */
             margin-left: 1100px;
         }
     }
-    @media only screen and (max-width: 1850px) {
+    @media only screen and (max-width: 1870px) {
         #portfoliocircle {
             margin-right: 100px;
         }
@@ -4340,7 +4340,7 @@ margin-top: 160px; */
         }
         #lifeS3blueball {
             position: relative;
-            top: -2030px;
+            top: -2000px;
             left: 1100px;
         }
         #lifeyellowdowncube {
