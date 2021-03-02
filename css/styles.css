@@ -4280,6 +4280,18 @@ margin-top: 160px; */
         }
     }
     @media only screen and (max-width: 1950px) {
+        .logo {
+            position: relative;
+            left: -50px;
+        }
+        #flowerpic {
+            margin-left: 220px;
+        }
+        #mousepic {
+            position: absolute;
+            top: 430px;
+            right: -320px;
+        }
         #portfoliocircle {
             margin-right: 100px;
         }
@@ -4394,6 +4406,11 @@ margin-top: 160px; */
         #secgroupofdev {
             position: relative;
             left: -200px;
+        }
+        #mousepic {
+            position: absolute;
+            top: 400px;
+            right: -250px;
         }
     }
     @media only screen and (max-width: 1795px) {
@@ -4766,7 +4783,7 @@ margin-top: 160px; */
         #mousepic {
             position: absolute;
             top: 370px;
-            right: -200px;
+            right: -180px;
         }
         #flowerpic {
             margin-top: -40px;
@@ -5118,7 +5135,7 @@ margin-top: 160px; */
             margin-left: -140px;
         }
         #S3keyboard {
-            margin-left: 70px;
+            margin-left: 50px;
         }
         #S3blueball {
             margin-left: 10px;
