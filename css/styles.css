@@ -2386,9 +2386,9 @@ margin-top: 160px; */
     /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=-     portfolio          */
     /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
     /* -==--==-=-=--=-=-=-=--=---=-=-=-=-=--==-=--=-=-=-=-=-=---=-=- */
-    @media only screen and (max-width: 1850px) {
+    @media only screen and (max-width: 1750px) {
         .social-app {
-            max-width: 950px;
+            max-width: 850px;
             margin-left: 60px;
             border-radius: 20px;
             max-height: 650px;
@@ -2400,7 +2400,7 @@ margin-top: 160px; */
             max-width: 750px;
             margin-left: 60px;
             border-radius: 20px;
-            max-height: 550px;
+            max-height: 530px;
             margin-top: 50px !important;
         }
         #clientsheading {
